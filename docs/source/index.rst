@@ -11,4 +11,4 @@ Welcome to CIMeC's MRI Lab Wiki!
   ../docs/bestpractices.rst
   ../docs/manuals.rst
   ../docs/utilities.rst
-  ../FAQ
+  pages/FAQ
