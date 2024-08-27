@@ -7,7 +7,7 @@ This involves the development and continued improvement of new hardware, softwar
 How to reach us
 ---------------
   Where we are:
-  | `Rovereto Palazzo Fedrigotti <https://maps.app.goo.gl/RseNqCQEkhkxJ2TE7/>`_
+  `Rovereto Palazzo Fedrigotti <https://maps.app.goo.gl/RseNqCQEkhkxJ2TE7/>`_
   | `Rovereto Manifattura <https://maps.app.goo.gl/h1kJoeKancYbxb1r6/>`_
   | `Rovereto CeRiN <https://maps.app.goo.gl/7nhw5GjFxoBpEpPA9/>`_
 
@@ -27,8 +27,10 @@ How to reach us
     ~~~~~~~~~~
     The closest airport is `Catullo of Villafranca Verona <https://www.aeroportoverona.it//>`_.
     The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Rovereto by train.
+
+Other facility:
 --------------------
-  | `Mattarello <https://maps.app.goo.gl/Fdzyt293Km7xf7at8/>`_
+  `Mattarello <https://maps.app.goo.gl/Fdzyt293Km7xf7at8/>`_
 
   By car
     ~~~~~~~~~~
@@ -45,5 +47,4 @@ How to reach us
     
   By plane
     ~~~~~~~~~~
-    The closest airport is `Catullo of Villafranca Verona <https://www.aeroportoverona.it//>`_.
-The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Trento by train. Your arrival station is Trento, from which you then take a bus to Mattarello.
+    The closest airport is `Catullo of Villafranca Verona <https://www.aeroportoverona.it//>`_. The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Trento by train. Your arrival station is Trento, from which you then take a bus to Mattarello.
