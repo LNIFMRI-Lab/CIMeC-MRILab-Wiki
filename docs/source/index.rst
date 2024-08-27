@@ -10,3 +10,16 @@ Where we are:
 | `Rovereto Palazzo Fedrigotti <https://maps.app.goo.gl/RseNqCQEkhkxJ2TE7/>`_
 | `Rovereto Manifattura <https://maps.app.goo.gl/h1kJoeKancYbxb1r6/>`_
 | `Rovereto CeRiN <https://maps.app.goo.gl/7nhw5GjFxoBpEpPA9/>`_
+
+By car
+A22 Brennero Motorway, exit "Rovereto nord".
+
+By bus
+Rovereto can be reached with Flixbus from Austria, Germany and several Italian cities and the airport "Orio al Serio" located in Bergamo. The bus stops in front of the train station, which is about 10 minutes walk from the headquarters of the CIMeC.
+
+By train
+Visit Trenitalia to see up-to-date schedules for the location you are arriving from as well as to purchase your ticket online. Your arrival station is Rovereto, which is about 10 minutes walk from the headquarters of the CIMeC.
+
+By plane
+The closest airport is "Catullo" of Villafranca Verona.
+The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Rovereto by train.
