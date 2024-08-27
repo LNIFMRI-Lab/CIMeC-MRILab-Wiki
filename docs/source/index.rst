@@ -5,10 +5,10 @@ Welcome to CIMeC's MRI Lab Wiki!
   :maxdepth: 2
   :caption: Contents:
 
-  CIMeC-Wiki/docs/homepage
+  ./homepage
   docs/infos.rst
   docs/accessrules.rst
   docs/bestpractices.rst
   docs/manuals.rst
   docs/utilities.rst
-  CIMeC-Wiki/docs/FAQ
+  ./FAQ
