@@ -11,6 +11,8 @@ For safety reasons, the facility is a controll-access zone; researcher can only 
 In the Facility, experiments (human scans) can be carried out as long as the required healthcare staff are avaiable (MRI Tech and, if applicable, a doctor to perform an examination) every week Monday to Friday, 8AM to 8PM.
 When healthcare staff is not present, usaers can access the Facility to prepare experiments and to define fMRI acquisition protocol to be used (phantom scans), but only when accompanied by a member of the MRI Staff.
 
+Training
+----------
 Before accessing the Facility, users must complete general safety training provided online by UniTN:
  * the “Health and Safety at Work Course - General” for teachers, researchers, research fellows / Health and Safety at Work Course - General for students for PhD students and master students . Provided by UniTN, the course has unlimited validity; once passed, the user must enter the result into CLARA, by uploading the course-completion certificate;
  * the “Low risk” Safety Course for teachers, researchers, research fellows / Low risk for students for PhD students and master students. Provided by UniTN, certification is valid for 5 years; once passed, the user must enter the course-completion certificate into CLARA;
