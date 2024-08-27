@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+CIMeC Wiki
 =======================================
+About Lab structure and coding examples.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Can help people to uunderstand what we do.
