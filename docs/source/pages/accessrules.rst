@@ -14,8 +14,8 @@ When healthcare staff is not present, usaers can access the Facility to prepare 
 Training
 ----------
 Before accessing the Facility, users must complete general safety training provided online by UniTN:
- * the “Health and Safety at Work Course - General” for teachers, researchers, research fellows or, if you're a PhD or Master student, the "Health and Safety at Work Course - General for students". Provided by UniTN, the course has unlimited validity; once passed, the user must enter the result into CLARA, by uploading the course-completion certificate;
- * the “Low risk” Safety Course for teachers, researchers, research fellows or, if you're a PhD or Master student, "Low risk for students". Provided by UniTN, certification is valid for 5 years; once passed, the user must enter the course-completion certificate into CLARA;
+ * the “Health and Safety at Work Course - General” for teachers, researchers, research fellows or the "Health and Safety at Work Course - General for students" if you're a PhD or Master student. Provided by UniTN, the course has unlimited validity; once passed, the user must enter the result into CLARA, by uploading the course-completion certificate;
+ * the “Low risk” Safety Course for teachers, researchers, research fellows or thr "Low risk for students" if you're a PhD or Master student. Provided by UniTN, certification is valid for 5 years; once passed, the user must enter the course-completion certificate into CLARA;
  * “Regulation (GDPR)” Course and the specific module “Guidelines to Privacy and the General Data Protection Regulation (GDPR) - RESEARCH MODULE". The courses are provided by UniTN; once passed, the course-completion certificates of both courses must be entered into CLARA;
  * the “Covid-19” Course (not mandatory). Provided by UniTN, once passed, the result must be entered into CLARA, by uploading course-completion certificate.
 
