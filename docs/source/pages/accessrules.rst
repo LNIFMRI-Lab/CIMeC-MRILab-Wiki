@@ -19,7 +19,7 @@ Before accessing the Facility, users must complete general safety training provi
  * “Regulation (GDPR)” Course and the specific module “Guidelines to Privacy and the General Data Protection Regulation (GDPR) - RESEARCH MODULE". The courses are provided by UNITN; once passed, the course-completion certificates of both courses must be entered into CLARA;
  * the “Covid-19” Course  (not mandatory). Provided by UniTN, once passed, the result must be entered into CLARA, by uploading course-completion certificate.
 
-**All listed courses can be found** `here <https://didatticaonline.unitn.it/ateneo/>`_.
+**All listed/required courses can be found** `here <https://didatticaonline.unitn.it/ateneo/>`_.
 
 Users must also complete specific training delivered by Facility staff, and in some cases, preventive medical screening.
 
