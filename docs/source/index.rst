@@ -15,5 +15,10 @@ Indices and tables
 ---------------
 * :ref:`index`
 * :ref:`homepage`
+* :ref:`infos`
 * :ref:`accessrules`
+* :ref:`bestpractices`
+* :ref:`manuals`
+* :ref:`utilities`
+
 
