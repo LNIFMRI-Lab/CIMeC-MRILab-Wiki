@@ -1,5 +1,2 @@
-Best Practices Page
+Best Practices
 ===============
-
-make this page pls
---------------
