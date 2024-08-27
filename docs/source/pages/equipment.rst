@@ -51,11 +51,11 @@ This means that whenever a signal is sent from within scanner room, numbers appe
 
 Scanner Sync
 --------
-The scanner, during functional acquisitions, sends a 50 us "pulse" every TR, marking in this way the "volumes" of your MRI experiment. Synchronization with the scanner trigger is provided through a BNC cable connected to the NordicNeuroLab box, attached to Stim-PC via a USB Port. Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition. This means that in debugging, you can test your scripts by simply accepting "5" key.
+The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, marking in this way the "volumes" of your MRI experiment. Synchronization with the scanner trigger is provided through a BNC cable connected to the NordicNeuroLab box, attached to Stim-PC via a USB Port. Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition. This means that in debugging, you can test your scripts by simply accepting "5" key.
 
 Participants' responses
 ----------
-MRI Lab provides two 4- button boxes for the participant to send responses while performing inside the scanner. Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, "1","2","3","4" and "6","7","8","9" keys to Stim-PC.
+MRI Lab provides two 4-button boxes for the participant to send responses while performing inside the scanner. Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, "1","2","3","4" and "6","7","8","9" keys to Stim-PC.
 
 You can check the responses by focusing on NNL Box during the experiments. Specific green leds light up when a button is pressed.
 
@@ -63,7 +63,7 @@ Visual Presentation
 ---------
 For the visual stimuli presentation MR-Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
 
-Basic monitor specs include: 878 mm horizontal x 485 mm vertical; 3840 x 2160 pixels; surface luminance 350 c/m2; contrast ratio 5000:1 typ, refresh rate 60Hz @ UHD, 120Hz@FHD.
+Basic monitor specs include: 878 mm horizontal x 485 mm vertical; 3840 x 2160 pixels; surface luminance 350 c/m2; contrast ratio 5000:1 typ, refresh rate 60Hz@UHD, 120Hz@FHD.
 
 Auditory Presentation
 ----------
