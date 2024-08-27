@@ -43,9 +43,9 @@ Updates and Development
 ------
 The descripted hardware and software equipment is the standard configuration of the Stim-PC. Updates made by MRI Lab will be announced in advance and described to the users. Potential specific configurations should be requested by sending an email to MRI Lab staff. The staff will discuss if and how implement requested changes in the lab environment.
 
-Nordic Neurolab Box
+Nordic NeuroLab Box
 ------
-Signals coming from Scanner Room are managed by Nordic Neurolab Box (NNL Box), which is connected to the button boxes through a optic fiber cable and to the scanner through a BNC cable.
+Signals coming from Scanner Room are managed by Nordic NeuroLab Box (NNL Box), which is connected to the button boxes through a optic fiber cable and to the scanner through a BNC cable.
 NNL Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
 This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your matlab code.
 
