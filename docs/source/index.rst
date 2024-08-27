@@ -3,12 +3,12 @@ Welcome to CIMeC's MRI Lab Wiki!
 
 .. toctree::
   :maxdepth: 4
-  :caption: Contents:
+  :caption: Contents
 
-  ../docs/homepage
-  ../docs/infos.rst
-  ../docs/accessrules.rst
-  ../docs/bestpractices.rst
-  ../docs/manuals.rst
-  ../docs/utilities.rst
+  pages/homepage
+  pages/infos
+  pages/accessrules
+  pages/bestpractices
+  pages/manuals
+  pages/utilities
   pages/FAQ
