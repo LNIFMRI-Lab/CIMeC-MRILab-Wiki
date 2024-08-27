@@ -1,10 +1,8 @@
 Welcome to CIMeC's MRI Lab Wiki!
 ===========================
 
-
-
 .. toctree::
-  :maxdepth: 4
+  :maxdepth: 1
   :caption: Index
 
   pages/infos
@@ -14,7 +12,7 @@ Welcome to CIMeC's MRI Lab Wiki!
   pages/utilities
   pages/FAQ
 
-Home
+Basic description
 ===================================
 
 **CIMeC** (Center for Mind/Brain Sciences of University  of Trento)  is a research center committed to developing new techniques for imaging human brain and to applying these techniques toward a more comprehensive understanding and better care of the human mind and body.
