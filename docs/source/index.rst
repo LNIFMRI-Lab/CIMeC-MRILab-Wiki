@@ -1,5 +1,5 @@
-Index
-=================
+Welcome to CIMeC's MRI Lab Wiki!
+===========================
 
 .. toctree::
   :maxdepth: 3
@@ -10,3 +10,10 @@ Index
    manual/Manuals
    manual/Utilities
    manual/FAQ
+
+Indices and tables
+==================
+* :ref:`index`
+* :ref:`homepage`
+* :ref:`accessrules`
+
