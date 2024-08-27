@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CIMeC Wiki'
+copyright = '2024, Alberto'
+author = 'Alberto'
 
 release = '0.1'
 version = '0.1.0'
