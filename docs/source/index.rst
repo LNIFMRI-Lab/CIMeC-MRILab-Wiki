@@ -28,9 +28,7 @@ How to reach us
     The closest airport is `Catullo of Villafranca Verona <https://www.aeroportoverona.it//>`_.
     The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Rovereto by train.
 
-Other facility:
---------------------
-  `Mattarello <https://maps.app.goo.gl/Fdzyt293Km7xf7at8/>`_
+Other facility: `Mattarello <https://maps.app.goo.gl/Fdzyt293Km7xf7at8/>`_
 
   By car
     ~~~~~~~~~~
