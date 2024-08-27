@@ -19,14 +19,15 @@ Peripheral Equipment
   * Eye Tracker (Eyelink1000);
   * physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
-Stimuli Presentation
+Stimulation PCs
 ---------
 MRI Lab provides the researchers with:
   * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stimulation PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
   * a Training PC, clone of the Stimulation PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
-These are the hardware specs:
+HW Specs
+~~~~~~~~~~
   * CPU: 
   * GPU:
   * RAM:
