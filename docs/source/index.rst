@@ -2,7 +2,7 @@ Welcome to CIMeC's MRI Lab Wiki!
 ===========================
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 4
   :caption: Contents:
 
   ../docs/homepage
