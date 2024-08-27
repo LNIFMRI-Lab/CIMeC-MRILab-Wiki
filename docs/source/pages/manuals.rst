@@ -1,5 +1,2 @@
-Manuals Page
+Manuals
 ============
-
-make this page pls
---------------
