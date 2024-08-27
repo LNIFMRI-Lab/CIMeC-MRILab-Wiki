@@ -12,7 +12,7 @@ Welcome to CIMeC's MRI Lab Wiki!
    manual/FAQ
 
 Indices and tables
-==================
+---------------
 * :ref:`index`
 * :ref:`homepage`
 * :ref:`accessrules`
