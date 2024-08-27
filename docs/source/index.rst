@@ -1,7 +1,7 @@
 Index
 =================
 
-..toctree::
+.. toctree::
   :maxdepth: 3
 
    manual/Homepage
