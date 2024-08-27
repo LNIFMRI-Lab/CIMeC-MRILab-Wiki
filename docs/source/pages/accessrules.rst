@@ -1,5 +1,3 @@
-Placeholder for Access Rules
+Access Rules
 ===========================
 
-make this page pls
---------------
