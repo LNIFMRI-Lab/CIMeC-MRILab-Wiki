@@ -32,9 +32,7 @@ Regardless of training, bachelors/master’s and other undergraduate students, a
 Annual authorisation to access the MRI Lab Magnet Room
 -------------
 If the researcher needs special access to not only the MRI Facility but also to take volunteers into the magnet room, the following is also required:
-
  * certificate of fitness to work in the magnet room, issued by the appointed physician for health at work; this authorisation is entered into CLARA by the ER (valid for one year).
 
 For annual renewal of authorisation to access the magnet room, the researcher must:
-
  * renew the certificate of fitness to work in the magnet room, again issued by the appointed physician for health at work; again entered into CLARA by the ER (valid for one year).
