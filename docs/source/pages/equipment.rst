@@ -1,5 +1,6 @@
 Equipment
 ==========
+*to be implemented*
 
 MRI Scanner
 --------
@@ -17,7 +18,6 @@ Peripheral Equipment
   * tactile piezoelectric stimulator, 2 x 5 fingers (QuaeroSys);
   * Eye Tracker (Eyelink1000);
   * physiological data monitoring and recording (ECG, pOx, Resp tracking);
-*to be implemented*
 
 Stimuli Presentation
 ---------
