@@ -1,4 +1,4 @@
-Tree of this wiki
+Index
 =================
 
 ..toctree::
