@@ -1,4 +1,4 @@
-Welcome to CIMeC's documentation!
+Home
 ===================================
 
 **CIMeC** (Center for Mind/Brain Sciences of University  of Trento)  is a research center committed to developing new techniques for imaging human brain and to applying these techniques toward a more comprehensive understanding and better care of the human mind and body.
