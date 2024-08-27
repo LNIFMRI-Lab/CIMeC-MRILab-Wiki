@@ -22,9 +22,9 @@ Peripheral Equipment
 Stimulation PCs
 ---------
 MRI Lab provides the researchers with:
-  * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stimulation PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
+  * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
-  * a Training PC, clone of the Stimulation PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
+  * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
 HW Specs
 ~~~~~~~~~~
@@ -32,7 +32,7 @@ HW Specs
   * GPU:
   * RAM:
 
-The Stimulation PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
+The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
 
 Instructions for users
 ~~~~~~~~~~
@@ -46,7 +46,7 @@ The descripted hardware and software equipment is the standard configuration of 
 Nordic Neurolab Box
 ------
 Signals coming from Scanner Room are managed by Nordic Neurolab Box (NNL Box), which is connected to the button boxes through a optic fiber cable and to the scanner through a BNC cable.
-NNL Box is in turn connected to the Stim-PC through USB. Stim - PC collect signal from the scanner room as if it was an external USB keyboard.
+NNL Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
 This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your matlab code.
 
 Scanner Sync
@@ -67,7 +67,7 @@ Basic monitor specs include: 878 mm horizontal x 485 mm vertical; 3840 x 2160 pi
 
 Auditory Presentation
 ----------
-Current setup includes very basic auditory capabilities. Participants can hear auditory stimuli sent from Stim - PC through earplugs. Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
+Current setup includes very basic auditory capabilities. Participants can hear auditory stimuli sent from Stim-PC through earplugs. Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
 
 Help
 -------
