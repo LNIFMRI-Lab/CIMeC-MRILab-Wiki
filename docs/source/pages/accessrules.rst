@@ -1,9 +1,8 @@
 Access Rules
 ===========================
 
-MRI Access requirements 
-
 Access to the CIMeC's MRI Facility is regulated on two different access levels. The safety course for accesso to the MRI laboratory trains for both levels:
+
   * Researcher Level: guaranteed access to the MRI Lab, under the supervision of a member of the MRI Lab Staff, but no to the magnet room;
   * MRI Team Level: autonomous accesso to the MRI Lab, including to the magnet room.
 
