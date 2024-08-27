@@ -36,7 +36,7 @@ The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Ima
 
 Instructions for users
 ~~~~~~~~~~
-  * Access to Stim-PC: the password is printed on LCD monitor in the control room. You must log in locally, the PC has not Internet connectionl;
+  * Access to Stim-PC: the password is printed on LCD monitor in the control room. You must log in locally, the PC has not Internet connection;
   * Connection: use a portable device (most likely an USB Drive) to copy your script in the designed folder on the Stim-PC.
 
 Updates and Development
