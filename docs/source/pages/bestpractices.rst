@@ -3,13 +3,13 @@ Best Practices
 
 General Guidelines
 ---------------
+  - Bring a USB drive for copying the data.
+
   - Export all data from the Stim-PC at the end of the experiment.
 
   - Backup copies of the researcher's scripts are recommended, as the preservation of scripts and data generated on the Stim-PC is not guaranteed.
 
-  - Ensure that the physiodata are exported at the conclusion of the experiment.
-
-  - Bring a USB drive for copying the data.
+  - Ensure that the physiodata are exported at the conclusion of the experiment, as the preservation of the physiodata generated on the MR Scanner is not guaranteed.
 
 Stim-PC Organization
 ----------------
