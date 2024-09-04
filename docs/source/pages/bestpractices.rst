@@ -42,9 +42,17 @@ Access to this platform can be granted in the following ways:
 
 In both cases, access must be requested by reserving a slot via Google Calendar <insert calendar address> <link to "How To" instructions page>.
 
-Phantom Scans
+Human scans
 ---------
-The purpose of phantom scans is to fine-tune both the scanning protocol and the stimulus presentation while scanning. This is crucial to have a working experimental setup for the studies.
+Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of) for an update of their specific scan needs and constraints for the following month (email the MR Lab Staff for questions and requests).
+
+The MR Lab Booking System is arranged considering scanner availability and all requests.
+
+Open slots can be requested online directly on the Booking System.
+
+Phantom Sessions
+---------
+The purpose of phantom scans is for multiple purposes, including: testing for freshly installed sequences, systematic Quality Control sessions, quantitative exploration of protocols, preparing an experimental setup to be used for human experiments, etc... This is crucial to have a working experimental setup for the studies.
 
 Phantom scans will be scheduled whenever possible. Keep in mind that when the MR Lab is open for Human scans, these will have priority.
 
