@@ -15,7 +15,7 @@ Behavior
 ----------
   - Do not consume food or beverages in the experimental area, which includes the Stim-PC area, desks designated for research staff, technical staff desks, and the MRI console. There are designated areas in the reception and the break rooms in Building 10.
 
-  - Access to the area is granted only via intercom to personnel who meet the specified requirements, as outlined HERE <link access rules>.
+  - Access to the area is granted only via intercom to personnel who meet the specified requirements, as outlined in :ref:`Access Rules<Heading Text>`.
 
 Stim-PC Organization
 ----------------
