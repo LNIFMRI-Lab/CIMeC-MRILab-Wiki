@@ -12,7 +12,7 @@ Siemens Prisma 3T:
 
 Peripheral Equipment
 ----------
-  * 32" LCD for visual stimuli from Nordic NeuroLab (NNL), always inside the Magnet room;
+  * 32" LCD for visual stimuli from Nordic NeuroLab (NNL), always inside the Magnet room (see Visual Presentation section);
   * 2 x 4 button response pads (Cedrus LP-400 Response pad and Cedrus Lumina LSC-400B Controller);
   * MR compatible glass frames (adult and pediatric, max visual correction from -6 to +6 with intervals of 0.5);
   * tactile piezoelectric stimulator, 2 x 5 fingers (QuaeroSys);
