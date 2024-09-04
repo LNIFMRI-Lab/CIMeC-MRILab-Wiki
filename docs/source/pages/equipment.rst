@@ -44,21 +44,35 @@ Instructions for users
 
 Updates and Development
 ------
-The descripted hardware and software equipment is the standard configuration of the Stim-PC. Updates made by MRI Lab will be announced in advance and described to the users. Potential specific configurations should be requested by sending an email to MRI Lab staff. The staff will discuss if and how implement requested changes in the lab environment.
+The descripted hardware and software equipment is the standard configuration of the Stim-PC. Updates made by MRI Lab will be announced in advance and described to the users.
+
+Potential specific configurations should be requested by sending an email to MRI Lab staff.
+
+The staff will discuss if and how implement requested changes in the lab environment.
 
 Nordic NeuroLab Box
 ------
 Signals coming from Scanner Room are managed by Nordic NeuroLab Box (NNL Box), which is connected to the button boxes through a optic fiber cable and to the scanner through a BNC cable.
+
 NNL Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
+
 This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your matlab code.
 
 Scanner Sync
 --------
-The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, marking in this way the "volumes" of your MRI experiment. Synchronization with the scanner trigger is provided through a BNC cable connected to the NordicNeuroLab box, attached to Stim-PC via a USB Port. Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition. This means that in debugging, you can test your scripts by simply accepting "5" key.
+The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, marking in this way the "volumes" of your MRI experiment.
+
+Synchronization with the scanner trigger is provided through a BNC cable connected to the NordicNeuroLab box, attached to Stim-PC via a USB Port.
+
+Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition.
+
+This means that in debugging, you can test your scripts by simply accepting "5" key.
 
 Participants' responses
 ----------
-MRI Lab provides two 4-button boxes for the participant to send responses while performing inside the scanner. Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, "1","2","3","4" and "6","7","8","9" keys to Stim-PC.
+MRI Lab provides two 4-button boxes for the participant to send responses while performing inside the scanner.
+
+Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, ``1 - 2 - 3 - 4`` and ``6 - 7 - 8 - 9`` keys to Stim-PC.
 
 You can check the responses by focusing on NNL Box during the experiments. Specific green leds light up when a button is pressed.
 
@@ -70,8 +84,12 @@ Basic monitor specs include: 878 mm horizontal x 485 mm vertical; 3840 x 2160 pi
 
 Auditory Presentation
 ----------
-Current setup includes very basic auditory capabilities. Participants can hear auditory stimuli sent from Stim-PC through earplugs. Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
+Current setup includes very basic auditory capabilities. Participants can hear auditory stimuli sent from Stim-PC through earplugs.
+
+Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
 
 Help
 -------
-You can always send an email to MRI Lab staff asking generic questions. In this way the whole staff will notice your request and specific staff memebers would combine their efforts to provide you an answer.
+You can always send an email to MRI Lab staff asking generic questions.
+
+In this way the whole staff will notice your request and specific staff memebers would combine their efforts to provide you an answer.
