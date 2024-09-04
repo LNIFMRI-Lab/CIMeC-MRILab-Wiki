@@ -72,7 +72,7 @@ Participants' responses
 ----------
 MRI Lab provides two 4-button boxes for the participant to send responses while performing inside the scanner.
 
-Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, ``1 - 2 - 3 - 4`` and ``6 - 7 - 8 - 9`` keys to Stim-PC.
+Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, ``1`` ``2`` ``3`` ``4`` and ``6`` ``7`` ``8`` ``9`` keys to Stim-PC.
 
 You can check the responses by focusing on NNL Box during the experiments. Specific green leds light up when a button is pressed.
 
