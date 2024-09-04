@@ -4,21 +4,25 @@ Contacts
 MR Lab Phonebook
 ---------
 +------------------+-------------------------------------------------------+
-|Name              |Role | Phone Num                                       |
+|Name              |Role                               | Phone Num         |
 +------------------+-------------------------------------------------------+
 |MR Console Desk   |   xxxxxxxxxx                                          |
 +------------------+-------------------------------------------------------+
-|Jorge Jovicich    |MR Lab Coordinator | xxxxxxx                           |
+|Jorge Jovicich    |MR Lab Coordinator                 | xxxxxxx           |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx | xxxxxxxxxx                           |
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
++------------------+-------------------------------------------------------+
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
++------------------+-------------------------------------------------------+
+|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |
 +------------------+-------------------------------------------------------+
