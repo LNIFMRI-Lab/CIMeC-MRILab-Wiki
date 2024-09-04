@@ -52,6 +52,10 @@ Subject Training
 -----------
 If a pre-scan training session is required, the researcher and participant can use Room I-48, which is available at the lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
 
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+
 Phantom Sessions
 ---------
 The purpose of phantom scans is for multiple purposes, including: testing for freshly installed sequences, systematic Quality Control sessions, quantitative exploration of protocols, preparing an experimental setup to be used for human experiments, etc... This is crucial to have a working experimental setup for the studies.
