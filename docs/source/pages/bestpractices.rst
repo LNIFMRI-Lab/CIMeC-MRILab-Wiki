@@ -54,7 +54,7 @@ If a pre-scan training session is required, the researcher and participant can u
 
 .. image:: docs/source/figures/placeholder.png
   :width: 400
-  :alt: Alternative text
+  :alt: Room I-48
 
 Phantom Sessions
 ---------
