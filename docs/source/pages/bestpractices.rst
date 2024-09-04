@@ -52,6 +52,7 @@ The insterested investigator must request a slot in coordination with the MR Lab
 
 Other
 -------
+
 If the researcher who booked the MR Lab cannot attend the scanning session, for whatever reason:
       * they must remove the booking 3 days in advance. This will allow the staff to re-assign the slot in a proper way.
       * Otherwise, they will be requested to pay for scan time even if they did not use the scanner at all.
