@@ -19,7 +19,7 @@ Behavior
 
 Stim-PC Organization
 ----------------
-  - Researchers must come with the project code https://apps.cimec.unitn.it/cis/projects.php?lang=en (see the “Code” column).
+  - Researchers must come with the `PROJECT CODE <https://apps.cimec.unitn.it/cis/projects.php?lang=en>`_(see the “Code” column).
 
   - Researchers log in by using the credentials printed on the monitor.
 
