@@ -80,7 +80,12 @@ Visual Presentation
 ---------
 For the visual stimuli presentation MR-Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
 
-Basic monitor specs include: 878 mm horizontal x 485 mm vertical; 3840 x 2160 pixels; surface luminance 350 c/m2; contrast ratio 5000:1 typ, refresh rate 60Hz @ UHD, 120Hz @ FHD.
+Basic monitor specs include:
+ * 878 mm horizontal x 485 mm vertical;
+ * 3840 x 2160 pixels;
+ * surface luminance 350 c/m2;
+ * contrast ratio 5000:1 typ;
+ * refresh rate: 60Hz@UHD, 120Hz@FHD.
 
 Auditory Presentation
 ----------
