@@ -50,6 +50,8 @@ The MR Lab Booking System is arranged considering scanner availability and all r
 
 Open slots can be requested online directly on the Booking System.
 
+PIs are responsible for informing as soon as possible if they cannot use a scan slot allocated to them (email the staff, indicating the reasing why the slot cannot be used).
+
 Phantom Sessions
 ---------
 The purpose of phantom scans is for multiple purposes, including: testing for freshly installed sequences, systematic Quality Control sessions, quantitative exploration of protocols, preparing an experimental setup to be used for human experiments, etc... This is crucial to have a working experimental setup for the studies.
