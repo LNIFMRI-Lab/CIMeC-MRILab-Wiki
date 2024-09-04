@@ -26,6 +26,9 @@ MRI Lab provides the researchers with:
 
   * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
+ * Stim-PC stays offline. Researchers should come with a USB Drive with their flies;
+ * Stim-PC is not updated on researchers requests. Current software equipment was judgeg as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by MR Lab staff;
+
 HW Specs
 ~~~~~~~~~~
   * CPU: 
