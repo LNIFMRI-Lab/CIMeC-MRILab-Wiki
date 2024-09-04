@@ -1,2 +1,5 @@
-MR Lab Staff Contacts
+Contacts
 ==========
+
+MR Lab Staff
+---------
