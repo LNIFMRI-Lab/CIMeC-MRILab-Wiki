@@ -11,7 +11,7 @@ General Guidelines
 
   - Ensure that the physiodata are exported at the conclusion of the experiment, as the preservation of the physiodata generated on the MR Scanner is not guaranteed.
 
-Behavior
+In-Lab Behavior
 ----------
   - Do not consume food or beverages in the experimental area, which includes the Stim-PC area, desks designated for research staff, technical staff desks, and the MRI console. There are designated areas in the reception and the break rooms in Building 10.
 
