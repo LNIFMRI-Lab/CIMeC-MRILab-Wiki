@@ -48,22 +48,6 @@ Open slots can be requested online directly on the Booking System.
 
 PIs are responsible for informing as soon as possible if they cannot use a scan slot allocated to them (email the staff, indicating the reasing why the slot cannot be used).
 
-Here you can find an Email template for this purpose:
-``Hello All,
-
-During the next month, scanner will be available for about HH hours, arranged in WW working weeks.
-
-Further integrations of scanner availability will be communicated during the next month.
-
-Please, place your requests using the booking system:
-
-https://apps.cimec.unitn.it/cis/calendar.php?lang=en
-
-Thanks.
-
-Best,``
-
-
 Subject Training
 -----------
 If a pre-scan training session is required, the researcher and participant can use Room I-48, which is available at the lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
