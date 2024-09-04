@@ -1,2 +1,2 @@
-Manuals
+How To
 ============
