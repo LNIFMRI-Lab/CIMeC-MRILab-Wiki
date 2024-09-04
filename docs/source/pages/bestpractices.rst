@@ -29,11 +29,11 @@ Stim-PC Organization
 
 Subject Training
 -----------
-  - If a pre-scan training session is required, the researcher and participant can use Room I-48, which is available at the lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
+If a pre-scan training session is required, the researcher and participant can use Room I-48, which is available at the lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
 
 Code Testing
 ----------------
-  - A secondary Stim-PC with same specs to the primary one located in the experimental area is available for the preliminary stages of paradigm development, debugging, and testing.
+A secondary Stim-PC with same specs to the primary one located in the experimental area is available for the preliminary stages of paradigm development, debugging, and testing.
 
 Access to this platform can be granted in the following ways:
 
@@ -44,17 +44,20 @@ In both cases, access must be requested by reserving a slot via Google Calendar 
 
 Phantom Scans
 ---------
-  * The purpose of phantom scans is to fine-tune both the scanning protocol and the stimulus presentation while scanning. This is crucial to have a working experimental setup for the studies.
+The purpose of phantom scans is to fine-tune both the scanning protocol and the stimulus presentation while scanning. This is crucial to have a working experimental setup for the studies.
 
-  * Phantom scans will be scheduled whenever possible. Keep in mind that when the MR Lab is open for Human scans, these will have priority.
+Phantom scans will be scheduled whenever possible. Keep in mind that when the MR Lab is open for Human scans, these will have priority.
 
-  * The insterested investigator must request a slot in coordination with the MR Lab Staff.
+The insterested investigator must request a slot in coordination with the MR Lab Staff.
 
 Other
 -------
-  * If the researcher who booked the MR Lab cannot attend the scanning session, for whatever reason:
+If the researcher who booked the MR Lab cannot attend the scanning session, for whatever reason:
       * they must remove the booking 3 days in advance. This will allow the staff to re-assign the slot in a proper way.
       * Otherwise, they will be requested to pay for scan time even if they did not use the scanner at all.
-  * In the unfortunate event of a slot cancellation, if MR Lab is somehow responsible (e.g.: scanner not working; staff members not avaiable), then the researcher will not be charged for scan time.
-  * Lab practice suggests to pack researcher slots one after the other in single sessions made up of several participants. Inter - session intervals make it hard for the staff to arrange all the scan time requests throughout the researchers.
-  * Should researchers have, within their project, more sources to pay scan time, please make them letting the staff know it. This is crucial to properly charge specific scan time to specific projects.
+
+In the unfortunate event of a slot cancellation, if MR Lab is somehow responsible (e.g.: scanner not working; staff members not avaiable), then the researcher will not be charged for scan time.
+
+Lab practice suggests to pack researcher slots one after the other in single sessions made up of several participants. Inter - session intervals make it hard for the staff to arrange all the scan time requests throughout the researchers.
+
+Should researchers have, within their project, more sources to pay scan time, please make them letting the staff know it. This is crucial to properly charge specific scan time to specific projects.
