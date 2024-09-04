@@ -9,7 +9,7 @@ Welcome to CIMeC's MRI Lab Wiki!
   pages/equipment
   pages/bestpractices
   pages/howto
-  pages/utilities
+  pages/resources
   pages/FAQ
   pages/contacts
 
