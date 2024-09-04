@@ -11,6 +11,7 @@ Welcome to CIMeC's MRI Lab Wiki!
   pages/howto
   pages/utilities
   pages/FAQ
+  pages/contacts
 
 Basic description
 ===================================
