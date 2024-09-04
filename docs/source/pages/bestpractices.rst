@@ -52,7 +52,7 @@ Subject Training
 -----------
 If a pre-scan training session is required, the researcher and participant can use Room I-48, which is available at the lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
 
-.. image:: docs/source/pages/figures/placeholder.png
+.. image:: docs/source/pages/placeholder.png
   :width: 400
   :alt: Room I-48
 
