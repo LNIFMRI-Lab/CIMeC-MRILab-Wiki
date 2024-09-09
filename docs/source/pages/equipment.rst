@@ -78,9 +78,9 @@ The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, mar
 
 Synchronization with the scanner trigger is provided through a BNC cable connected to the Button Box, attached to Stim-PC via a USB Port.
 
-Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition.
+Stim-PC collect triggers as if someone was systematically pressing ``5`` key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition.
 
-This means that in debugging, you can test your scripts by simply accepting "5" key.
+This means that in debugging, you can test your scripts by simply accepting ``5`` key.
 
 Participants' responses
 ----------
