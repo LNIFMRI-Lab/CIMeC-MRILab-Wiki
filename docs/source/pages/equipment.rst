@@ -7,7 +7,7 @@ MRI Scanner
 `Siemens Prisma 3T <https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma>`_:
   * actively shielded;
   * whole body 3T magnet;
-  * 80mT/m gradients with a slew rate og 200 T/m/s;
+  * 80mT/m gradients with a slew rate of 200 T/m/s;
   * 20ch and 64ch Head/Neck RF Coil for experimental neuroimaging applications.
 
 Peripheral Equipment
