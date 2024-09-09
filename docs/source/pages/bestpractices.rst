@@ -25,7 +25,7 @@ In addition, before submitting the project proposal (PPM) to the Ethics Committe
 
 The researchers with access to the Facility must therefore be part of a project approved by the Ethics Committee and which is active at the time of booking.
 
-Once the project is active (after the start date, as relayed by the PI to the CER), the researcher must coordinate with the MRI Lab Staff to organise a trial run of the experiment at the MRI facility (referred to as a `Phantom Session <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#phantom-sessions>`_).
+Once the project is active (after the start date, as relayed by the PI to the CER), the researcher must coordinate with the MRI Lab Staff to organise a trial run of the experiment at the MRI facility (referred to as a `Phantom Session <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#phantom-sessions>`_, see section below).
 
 Following successful completion of the Phantom Session, a trial session must be organised with a participant in the scanner (i.e., the “human pilot”).
 
