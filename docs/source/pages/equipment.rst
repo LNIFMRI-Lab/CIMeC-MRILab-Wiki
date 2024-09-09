@@ -30,7 +30,7 @@ MRI Lab provides the researchers with:
   * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
  * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
- * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by MR Lab staff;
+ * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
 
 HW Specs
 ~~~~~~~~~~
@@ -58,7 +58,7 @@ Instructions for users
 
 Updates and Development
 ------
-The descripted hardware and software equipment is the standard configuration of the Stim-PC. Updates made by MRI Lab will be announced in advance and described to the users.
+The descripted hardware and software equipment is the standard configuration of the Stim-PC. Updates made by MR Lab will be announced in advance and described to the users.
 
 Potential specific configurations should be requested by sending an email to MRI Lab staff.
 
