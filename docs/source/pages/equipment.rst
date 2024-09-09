@@ -91,7 +91,7 @@ You can check the responses by focusing on NNL Box during the experiments. Speci
 
 Visual Presentation
 ---------
-For the visual stimuli presentation MR-Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
+For the visual stimuli presentation MRI Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
 
 Basic monitor specs include:
  * 40" (878 mm horizontal x 485 mm vertical);
