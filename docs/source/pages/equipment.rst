@@ -12,7 +12,7 @@ MRI Scanner
 
 Peripheral Equipment
 ----------
-  * 32" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see Visual Presentation section);
+  * 32" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-wiki.readthedocs.io/en/latest/pages/equipment.html#visual-presentation>`_ section in this page);
   * 2 x 4 button response pads (Cedrus LP-400 Response pad and Cedrus Lumina LSC-400B Controller);
   * MR compatible glass frames (adult and pediatric, max visual correction from -6 to +6 with intervals of 0.5);
   * tactile piezoelectric stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
