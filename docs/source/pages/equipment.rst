@@ -4,7 +4,9 @@ Equipment
 
 MRI Scanner
 --------
+
 `Siemens Prisma 3T <https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma>`_:
+
   * actively shielded;
   * whole body 3T magnet;
   * 80mT/m gradients with a slew rate of 200 T/m/s;
@@ -21,7 +23,9 @@ Peripheral Equipment
 
 Stimulation PCs
 ---------
+
 MRI Lab provides the researchers with:
+
   * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
   * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
