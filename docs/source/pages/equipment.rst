@@ -109,6 +109,13 @@ Current setup includes very basic auditory capabilities. Participants can hear a
 
 Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
 
+Peripherals Scheme
+--------------
+Here you can find a schematic representation of how the peripheral equipment is connected to the MR scanner and the Stim-PC:
+
+.. image:: figures/LNIFMRI_SetupScannerAndPeripherals.png
+  :width: 800
+
 Help
 -------
 You can always send an email to `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_ asking generic questions.
