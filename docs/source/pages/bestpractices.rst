@@ -40,7 +40,7 @@ In both cases, access must be requested by reserving a slot via Google Calendar 
 
 Human scans
 ---------
-Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of) for an update of their specific scan needs and constraints for the following month (email the MR Lab Staff for questions and requests).
+Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of) for an update of their specific scan needs and constraints for the following month (email the `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>_ for questions and requests).
 
 The MR Lab `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_ is arranged considering scanner availability and all requests.
 
