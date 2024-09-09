@@ -17,6 +17,18 @@ In-Lab Behavior
 
   - Access to the area is granted only via intercom to personnel who meet the specified requirements, as outlined in `Access Rules <https://cimec-wiki.readthedocs.io/en/latest/pages/accessrules.html>`_.
 
+MRI Project & experiments
+----------
+In order to start a study in the MRI Facility, all criteria for accessing the CIMeC facility must be met.
+
+In addition, before submitting the project proposal (PPM) to the Ethics Committee, the researcher must present it to the Lab Manager (FM), ER and MR. The guidelines for the PPM presentation are available in writing <insert link>. The PPM assesses the project's feasibility from the perspective of safety and organisational impact on the Facility.
+
+The researchers with access to the Facility must therefore be part of a project approved by the Ethics Committee and which is active at the time of booking.
+
+Once the project is active (after the start date, as relayed by the PI to the CER), the researcher must coordinate with the MRI Lab Staff to organise a trial run of the experiment at the MRI facility (referred to as a `Phantom Session <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#phantom-sessions>`_).
+
+Following successful completion of the Phantom Session, a trial session must be organised with a participant in the scanner (i.e., the “human pilot”).
+
 Stim-PC Organization
 ----------------
   - Researchers must come with their `Project Code <https://apps.cimec.unitn.it/cis/projects.php?lang=en>`_ (see the “Code” column).
