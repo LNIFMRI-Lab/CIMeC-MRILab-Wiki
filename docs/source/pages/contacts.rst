@@ -6,17 +6,17 @@ MR Lab Staff
 +------------------+-----------------------------------+-------------------+-------------------+
 |**Name**          |**Role**                           | **Phone Num**     |**Email**          |
 +------------------+-----------------------------------+-------------------+-------------------+
-|MR Console Desk   |xxxxxxxxxx                         |                   |                   |
+|MR Console Desk   |                                   |8750               |                   |
 +------------------+-----------------------------------+-------------------+-------------------+
-|Jorge Jovicich    |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
+|Jorge Jovicich    |Scientific Advisor                    | xxxxxxxxxx        |jorge.jovicich@unitn.it              |
 +------------------+-----------------------------------+-------------------+-------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
+|Stefano Tambalo   |MR Lab Coordinator                    | xxxxxxxxxx        |stefano.tambalo@unitn.it              |
 +------------------+-----------------------------------+-------------------+-------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
+|Alberto Finora    | MR Technician                      |8756               |alberto.finora@unitn.it              |
 +------------------+-----------------------------------+-------------------+-------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
+|Riccardo Pederzolli | MR Technician                    | 8755        |riccardo.pederzolli@unitn.it              |
 +------------------+-----------------------------------+-------------------+-------------------+
-|Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
+|Manuela Orsini   |MR Technician                    | xxxxxxxxxx        |manuela.orsini@unitn.it              |
 +------------------+-----------------------------------+-------------------+-------------------+
 |Stefano Tambalo   |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email              |
 +------------------+-----------------------------------+-------------------+-------------------+
