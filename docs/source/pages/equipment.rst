@@ -34,7 +34,7 @@ MRI Lab provides the researchers with:
 
 HW Specs
 ~~~~~~~~~~
-  * CPU: `Intel Core i7-13700 <https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html>`_, 2.1 Ghz, 16 Cores
+  * CPU: `Intel Core i7-13700 <https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html>`_, up to 5.2 Ghz, 16 Cores
   * GPU: `NVIDIA GeForce RTX 4060 <https://www.nvidia.com/en-gb/geforce/graphics-cards/40-series/rtx-4060-4060ti/>`_
   * RAM: 2x16Gb 4400Mhz
 
