@@ -4,7 +4,7 @@ Equipment
 
 MRI Scanner
 --------
-Siemens Prisma 3T:
+`Siemens Prisma 3T <https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma>`_:
   * actively shielded;
   * whole body 3T magnet;
   * 80mT/m gradients with a slew rate og 200 T/m/s;
@@ -12,11 +12,11 @@ Siemens Prisma 3T:
 
 Peripheral Equipment
 ----------
-  * 32" LCD for visual stimuli from Nordic NeuroLab (NNL), always inside the Magnet room (see Visual Presentation section);
+  * 32" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see Visual Presentation section);
   * 2 x 4 button response pads (Cedrus LP-400 Response pad and Cedrus Lumina LSC-400B Controller);
   * MR compatible glass frames (adult and pediatric, max visual correction from -6 to +6 with intervals of 0.5);
-  * tactile piezoelectric stimulator, 2 x 5 fingers (QuaeroSys);
-  * Eye Tracker (Eyelink1000);
+  * tactile piezoelectric stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
+  * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
   * physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
 Stimulation PCs
@@ -30,7 +30,7 @@ MRI Lab provides the researchers with:
  * Stim-PC is not updated on researchers requests. Current software equipment was judgeg as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by MR Lab staff;
 
 HW Specs
-~~~~~~~~~~
+^^^^^^^^^
   * CPU: Intel Core i7-13700, 2100 Mhz, 16 Cores, 24 Logical Processors
   * GPU: NVIDIA GeForce RTX 4060
   * RAM: 2x16Gb 4400Mhz
@@ -38,7 +38,7 @@ HW Specs
 The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
 
 SW Specs
-~~~~~~~~~~
+^^^^^^^^^^
 Here you can find the list of installed software:
  * Audacity 3.4.2
  * E-Prime 3.0 Subject Station 3.0.3.214
