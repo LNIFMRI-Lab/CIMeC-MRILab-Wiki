@@ -15,7 +15,7 @@ Peripheral Equipment
 ----------
   * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-wiki.readthedocs.io/en/latest/pages/equipment.html#visual-presentation>`_ section in this page);
   * 2 x 4 Button Response Pads (`Current Designs <https://www.curdes.com/mainforp/responsedevices/hhsc-2x4-l.html>`_);
-  * Button Response Pads Interface connected through USB to the Stim-PC (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
+  * Button Response Pads Interface (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
   * MR compatible glass frames for adult and pediatric subjects, max visual correction from -6 to +6 with intervals of 0.5 (`Cambridge Research System <https://www.crsltd.com/mri-patient-comfort-communication-and-entertainment/mri-patient-comfort/mediglasses/mediglasses-for-fmri/>`_);
   * Tactile Piezoelectric Stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
@@ -64,19 +64,19 @@ Potential specific configurations should be requested by sending an email to MRI
 
 The staff will discuss if and how implement requested changes in the lab environment.
 
-Nordic NeuroLab Box
+Button Response Pads Interface
 ------
-Signals coming from Scanner Room are managed by Nordic NeuroLab Box (NNL Box), which is connected to the button boxes through a optic fiber cable and to the scanner through a BNC cable.
+Signals coming from Scanner Room are managed by the Button Response Pads Interface (aka Button Box), which is connected to the Button Response Pads through a optic fiber cable and to the scanner through a BNC cable.
 
-NNL Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
+Button Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
 
-This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your matlab code.
+This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your MATLAB code.
 
 Scanner Sync
 --------
 The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, marking in this way the "volumes" of your MRI experiment.
 
-Synchronization with the scanner trigger is provided through a BNC cable connected to the NordicNeuroLab box, attached to Stim-PC via a USB Port.
+Synchronization with the scanner trigger is provided through a BNC cable connected to the Button Box, attached to Stim-PC via a USB Port.
 
 Stim-PC collect triggers as if someone was systematically pressing "5" key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition.
 
@@ -88,11 +88,11 @@ MRI Lab provides two 4-button boxes for the participant to send responses while 
 
 Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, ``1`` ``2`` ``3`` ``4`` and ``6`` ``7`` ``8`` ``9`` keys to Stim-PC.
 
-You can check the responses by focusing on NNL Box during the experiments. Specific green leds light up when a button is pressed.
+You can check the responses by focusing on the Button Box during the experiments. Specific green leds light up when a button is pressed.
 
 Visual Presentation
 ---------
-For the visual stimuli presentation MRI Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
+For the visual stimuli presentation, MRI Lab provides a compatible NNL LCD monitor positioned at the back of the magnet bore.
 
 Basic monitor specs include:
  * 40" (878 mm horizontal x 485 mm vertical);
@@ -100,6 +100,8 @@ Basic monitor specs include:
  * surface luminance 350 c/m2;
  * contrast ratio 5000:1 typ;
  * refresh rate: 60Hz@2160p, 120Hz@1080p.
+
+For more specs, see `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_.
 
 Auditory Presentation
 ----------
