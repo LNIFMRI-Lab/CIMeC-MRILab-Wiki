@@ -44,7 +44,7 @@ Each PI of an approved project is asked periodically (e.g.: monthly, on the thir
 
 The MR Lab Booking System is arranged considering scanner availability and all requests.
 
-Open slots can be requested online directly on the Booking System.
+Open slots can be requested online directly on the `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_.
 
 PIs are responsible for informing as soon as possible if they cannot use a scan slot allocated to them (email the staff, indicating the reasing why the slot cannot be used).
 
