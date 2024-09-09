@@ -31,11 +31,21 @@ MRI Lab provides the researchers with:
 
 HW Specs
 ~~~~~~~~~~
-  * CPU: 
-  * GPU:
-  * RAM:
+  * CPU: Intel(R) Core(TM) i7-13700, 2100 Mhz, 16 Core(s), 24 Logical Processor(s)
+  * GPU: NVIDIA GeForce RTX 4060
+  * RAM: 2x16Gb 4400Mhz
 
 The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
+
+SW Specs
+~~~~~~~~~~
+Here you can find the list of installed software:
+ * Audacity 3.4.2
+ * E-Prime 3.0 Subject Station 3.0.3.214
+ * EyeLink Developer's Kit 2.1.762.0
+ * MATLAB R2017b
+ * MATLAB R2022b
+ * Tachyon
 
 Instructions for users
 ~~~~~~~~~~
