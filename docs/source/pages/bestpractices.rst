@@ -19,7 +19,7 @@ In-Lab Behavior
 
 Stim-PC Organization
 ----------------
-  - Researchers must come with the `PROJECT CODE <https://apps.cimec.unitn.it/cis/projects.php?lang=en>`_ (see the “Code” column).
+  - Researchers must come with their `Project Code <https://apps.cimec.unitn.it/cis/projects.php?lang=en>`_ (see the “Code” column).
 
   - Researchers log in by using the credentials printed on the monitor.
 
@@ -42,7 +42,7 @@ Human scans
 ---------
 Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of) for an update of their specific scan needs and constraints for the following month (email the MR Lab Staff for questions and requests).
 
-The MR Lab Booking System is arranged considering scanner availability and all requests.
+The MR Lab `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_ is arranged considering scanner availability and all requests.
 
 Open slots can be requested online directly on the `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_.
 
