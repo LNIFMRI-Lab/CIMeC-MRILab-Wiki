@@ -31,7 +31,7 @@ MRI Lab provides the researchers with:
 
 HW Specs
 ~~~~~~~~~~
-  * CPU: Intel(R) Core(TM) i7-13700, 2100 Mhz, 16 Core(s), 24 Logical Processor(s)
+  * CPU: Intel Core i7-13700, 2100 Mhz, 16 Cores, 24 Logical Processors
   * GPU: NVIDIA GeForce RTX 4060
   * RAM: 2x16Gb 4400Mhz
 
