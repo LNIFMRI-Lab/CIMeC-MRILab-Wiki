@@ -6,7 +6,6 @@ MRI Scanner
 --------
 
 `Siemens Prisma 3T <https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma>`_:
-
   * actively shielded;
   * whole body 3T magnet;
   * 80mT/m gradients with a slew rate of 200 T/m/s;
@@ -25,7 +24,6 @@ Stimulation PCs
 ---------
 
 MRI Lab provides the researchers with:
-
   * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
   * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
@@ -45,7 +43,6 @@ SW Specs
 ~~~~~~~~~~
 
 Here you can find the list of installed software:
-
  * Audacity 3.4.2
  * E-Prime 3.0 Subject Station 3.0.3.214
  * EyeLink Developer's Kit 2.1.762.0
@@ -97,7 +94,7 @@ Visual Presentation
 For the visual stimuli presentation MR-Lab provides a compatible Nordic NeuroLab LCD monitor positioned at the back of the magnet bore.
 
 Basic monitor specs include:
- * 878 mm horizontal x 485 mm vertical;
+ * 40" (878 mm horizontal x 485 mm vertical);
  * 3840 x 2160 pixels;
  * surface luminance 350 c/m2;
  * contrast ratio 5000:1 typ;
