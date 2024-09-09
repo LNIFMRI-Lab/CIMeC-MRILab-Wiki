@@ -10,14 +10,14 @@ MR Lab Staff
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
 |Jorge Jovicich      | Scientific Advisor                | xxxxxxxxxx        | jorge.jovicich@unitn.it                   |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
-|Stefano Tambalo     | MR Lab Coordinator                | xxxxxxxxxx        | stefano.tambalo@unitn.it                  |
+|Stefano Tambalo     | MR Lab Coordinator                | 8753              | stefano.tambalo@unitn.it                  |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
 |Alberto Finora      | MR Technician                     | 8756              | alberto.finora@unitn.it                   |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
 |Riccardo Pederzolli | MR Technician                     | 8755              | riccardo.pederzolli@unitn.it              |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
-|Manuela Orsini      | MR Technician                     | xxxxxxxxxx        | manuela.orsini@unitn.it                   |
+|Manuela Orsini      | MR Technician                     | 8754              | manuela.orsini@unitn.it                   |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
-|Stefano Tambalo     |xxxxxxxxxxxxxxx                    | xxxxxxxxxx        |Email                                      |
+|Room I-36 (medico)  | medico                            | 8752              | Email                                     |
 +--------------------+-----------------------------------+-------------------+-------------------------------------------+
 
