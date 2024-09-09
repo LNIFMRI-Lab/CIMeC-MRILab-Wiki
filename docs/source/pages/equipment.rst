@@ -19,7 +19,7 @@ Peripheral Equipment
   * MR compatible glass frames for adult and pediatric subjects, max visual correction from -6 to +6 with intervals of 0.5 (`Cambridge Research System <https://www.crsltd.com/mri-patient-comfort-communication-and-entertainment/mri-patient-comfort/mediglasses/mediglasses-for-fmri/>`_);
   * Tactile Piezoelectric Stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
-  * hPysiological data monitoring and recording (ECG, pOx, Resp tracking);
+  * Physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
 Stimulation PCs
 ---------
