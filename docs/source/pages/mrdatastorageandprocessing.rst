@@ -12,7 +12,7 @@ For a description of the procedure necessary to define data processing by the PI
 
 Data collected and processed by the MRI Lab
 ----------------
-The MRI Lab acquires MRI images that are then made available to the researcher via the CIMeC Data Retrieving System (CDRMS).
+The MRI Lab acquires MRI images that are then made available to the researcher via the CIMeC Data Retrieving System (CDRMS <link>).
 
 The MRI images may come in different formats:
 
