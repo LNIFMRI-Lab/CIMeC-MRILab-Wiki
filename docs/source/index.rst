@@ -44,3 +44,8 @@ Where we are:
   By plane
     ~~~~~~~~~~
     The closest airport is `Valerio Catullo of Villafranca Verona <https://www.aeroportoverona.it//>`_. The airport is connected by a shuttle with the central train station Verona "Porta Nuova", from which you can reach Rovereto by train.
+
+Here you can find a map to help you access the MR Lab:
+
+.. image:: figures/LNIFMRI_AccessTheNewSite.png
+  :width: 800
