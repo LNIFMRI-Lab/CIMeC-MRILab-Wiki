@@ -105,6 +105,6 @@ Currently there is no possibility to work with different channels, fine-tune the
 
 Help
 -------
-You can always send an email to MRI Lab staff asking generic questions.
+You can always send an email to `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_ asking generic questions.
 
 In this way the whole staff will notice your request and specific staff memebers would combine their efforts to provide you an answer.
