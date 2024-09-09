@@ -29,7 +29,7 @@ Stim-PC Organization
 
 Code Testing
 ----------------
-A secondary Stim-PC with same specs to the primary one located in the experimental area is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Room I-48 (see `Subject Training <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#subject-training>`_). 
+A secondary Stim-PC with same specs to the primary one located in the experimental area is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Room I-48 (see `Subject Training <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#subject-training>`_ section in this page). 
 
 Access to this platform can be granted in the following ways:
 
