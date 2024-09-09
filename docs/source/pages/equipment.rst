@@ -39,7 +39,9 @@ The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Ima
 
 SW Specs
 ~~~~~~~~~~
+
 Here you can find the list of installed software:
+
  * Audacity 3.4.2
  * E-Prime 3.0 Subject Station 3.0.3.214
  * EyeLink Developer's Kit 2.1.762.0
