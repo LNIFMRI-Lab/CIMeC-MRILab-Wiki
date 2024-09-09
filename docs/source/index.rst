@@ -47,5 +47,5 @@ Where we are:
 
 Here you can find a map to help you access the MR Lab:
 
-.. image:: figures/LNIFMRI_AccessTheNewSite.png
+.. image:: pages/figures/LNIFMRI_AccessTheNewSite.png
   :width: 800
