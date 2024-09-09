@@ -30,7 +30,7 @@ MRI Lab provides the researchers with:
  * Stim-PC is not updated on researchers requests. Current software equipment was judgeg as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by MR Lab staff;
 
 HW Specs
-^^^^^^^^^
+""""""""
   * CPU: Intel Core i7-13700, 2100 Mhz, 16 Cores, 24 Logical Processors
   * GPU: NVIDIA GeForce RTX 4060
   * RAM: 2x16Gb 4400Mhz
@@ -38,7 +38,7 @@ HW Specs
 The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
 
 SW Specs
-^^^^^^^^^^
+""""""
 Here you can find the list of installed software:
  * Audacity 3.4.2
  * E-Prime 3.0 Subject Station 3.0.3.214
