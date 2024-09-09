@@ -33,8 +33,8 @@ A secondary Stim-PC with same specs to the primary one located in the experiment
 
 Access to this platform can be granted in the following ways:
 
-  - Remote desktop access
-  - Physical access on-site
+  - Remote desktop access (`How To <link>`_)
+  - Physical access on-site  (`How To <link>`_)
 
 In both cases, access must be requested by reserving a slot via Google Calendar <insert calendar address> <link to "How To" instructions page>.
 
