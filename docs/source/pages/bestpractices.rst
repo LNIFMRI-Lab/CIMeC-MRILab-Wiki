@@ -62,7 +62,7 @@ The purpose of phantom scans is for multiple purposes, including: testing for fr
 
 Phantom scans will be scheduled whenever possible. Keep in mind that when the MR Lab is open for Human scans, these will have priority.
 
-The insterested investigator must request a slot in coordination with the MR Lab Staff.
+The insterested investigator must request a slot in coordination with the `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_.
 
 Other
 -------
