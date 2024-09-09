@@ -34,8 +34,8 @@ MRI Lab provides the researchers with:
 
 HW Specs
 ~~~~~~~~~~
-  * CPU: Intel Core i7-13700, 2100 Mhz, 16 Cores, 24 Logical Processors
-  * GPU: NVIDIA GeForce RTX 4060
+  * CPU: `Intel Core i7-13700 <https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html>`_, 2100 Mhz, 16 Cores, 24 Logical Processors
+  * GPU: `NVIDIA GeForce RTX 4060 <https://www.nvidia.com/en-gb/geforce/graphics-cards/40-series/rtx-4060-4060ti/>`_
   * RAM: 2x16Gb 4400Mhz
 
 The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
