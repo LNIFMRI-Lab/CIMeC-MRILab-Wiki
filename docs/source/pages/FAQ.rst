@@ -1,5 +1,10 @@
 FAQs Page
 ==========
 
-make this page pls
+Common Questions
 --------------
+  1. 
+  2. 
+  3.
+  4.
+  5.
