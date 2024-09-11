@@ -50,6 +50,7 @@ Here you can find the list of installed software:
  * MATLAB R2017b
  * MATLAB R2022b
  * Tachyon
+ * Anaconda 2024.06-1 with Python 3.12.4
 
 Instructions for users
 ~~~~~~~~~~
