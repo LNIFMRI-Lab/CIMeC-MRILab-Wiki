@@ -1,4 +1,4 @@
 Resources
 ===========
 
-WIP...
+Work in progress
