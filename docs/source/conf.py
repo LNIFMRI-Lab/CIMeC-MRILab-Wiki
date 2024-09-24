@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'CIMeC Wiki'
+project = 'CIMeC MRI Lab Wiki'
 copyright = '2024, Alberto'
 author = 'Alberto'
 
