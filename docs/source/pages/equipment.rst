@@ -70,7 +70,7 @@ Button Response Pads Interface
 ------
 Signals coming from Scanner Room are managed by the Button Response Pads Interface (aka Trigger/Button Box), which is connected to the Button Response Pads through a optic fiber cable and to the scanner through a BNC cable.
 
-Button Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
+Trigger/Button Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
 
 This means that whenever a signal is sent from within scanner room, numbers appear on the Stim-PC. Keep this in mind when you need to collect responses within your MATLAB code.
 
@@ -78,7 +78,7 @@ Scanner Sync
 --------
 The scanner, during functional acquisitions, sends a 50μs "pulse" every TR, marking in this way the "volumes" of your MRI experiment.
 
-Synchronization with the scanner trigger is provided through a BNC cable connected to the Button Box, attached to Stim-PC via a USB Port.
+Synchronization with the scanner trigger is provided through a BNC cable connected to the Trigger/Button Box, attached to Stim-PC via a USB Port.
 
 Stim-PC collect triggers as if someone was systematically pressing ``5`` key (the one located in the alphanumeric part of the keyboard) at the beginning of each volume acquisition.
 
@@ -90,7 +90,7 @@ MRI Lab provides two 4-button boxes for the participant to send responses while 
 
 Buttons are arranged in a linear way. They are marked as right and left through a duct tape. They send, respectively, ``1`` ``2`` ``3`` ``4`` and ``6`` ``7`` ``8`` ``9`` keys to Stim-PC.
 
-You can check the responses by focusing on the Button Box during the experiments. Specific green leds light up when a button is pressed.
+You can check the responses by focusing on the Trigger/Button Box during the experiments. Specific green leds light up when a button is pressed.
 
 Visual Presentation
 ---------
