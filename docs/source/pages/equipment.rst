@@ -68,7 +68,7 @@ The staff will discuss if and how implement requested changes in the lab environ
 
 Button Response Pads Interface
 ------
-Signals coming from Scanner Room are managed by the Button Response Pads Interface (aka Button Box), which is connected to the Button Response Pads through a optic fiber cable and to the scanner through a BNC cable.
+Signals coming from Scanner Room are managed by the Button Response Pads Interface (aka Trigger/Button Box), which is connected to the Button Response Pads through a optic fiber cable and to the scanner through a BNC cable.
 
 Button Box is in turn connected to the Stim-PC through USB. Stim-PC collect signal from the scanner room as if it was an external USB keyboard.
 
