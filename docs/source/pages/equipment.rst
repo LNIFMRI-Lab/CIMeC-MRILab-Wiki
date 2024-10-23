@@ -100,7 +100,7 @@ Basic monitor specs include:
  * 3840 x 2160 pixels;
  * surface luminance 350 c/m2;
  * contrast ratio 5000:1 typ;
- * refresh rate: 60Hz@2160p, 120Hz@1080p.
+ * refresh rate: 60Hz @ 2160p, 120Hz @ 1080p.
 
 For more specs, see `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_.
 
