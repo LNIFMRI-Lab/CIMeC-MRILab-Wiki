@@ -4,8 +4,7 @@ Introduction
 -------------
 Management of the data collected at the MR Lab is based on the guidelines described in the `CIMeC General Data Protection Regulation <https://docs.google.com/document/d/1Nfa8i61-7nWXPcwL1KpN1KWxp9Xo3NNA/edit?usp=sharing&ouid=103484475014003309094&rtpof=true&sd=true>`_, which applies Regulation (EU) 2016/679 General Data Protection Regulation (GDPR), to scientific research.
 
- - `GDPR ENG <docs/GDPR_2016:679_EN.pdf>`_
- - `GDPR ITA <docs/GDPR_2016:679_IT.pdf>`_
+ - GDPR `ENG <https://eur-lex.europa.eu/eli/reg/2016/679/oj>`_ - `ITA <https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=it>`_
 
 The two essential points to be considered in data management are:
 
@@ -13,7 +12,7 @@ The two essential points to be considered in data management are:
 
   - Personal data processing is subject to severe privacy protection restrictions, violation of which entails legal risks for both the PI and CIMeC. Luckily, pseudonymisation and anonymisation make it possible to manage data far more freely. It is therefore best to apply the provisions of the GDPR, which require the pseudonymisation/anonymisation of data as quickly as possible along the processing chain.
 
-For a description of the procedure necessary to define data processing by the PI and for the general CIMeC data-processing guidelines, refer to the `CIMeC General Data Protection Regulation <https://docs.google.com/document/d/1Nfa8i61-7nWXPcwL1KpN1KWxp9Xo3NNA/edit?usp=sharing&ouid=103484475014003309094&rtpof=true&sd=true>`_
+For a description of the procedure necessary to define data processing by the PI and for the general CIMeC data-processing guidelines, refer to the `CIMeC General Data Protection Regulation <https://docs.google.com/document/d/1Nfa8i61-7nWXPcwL1KpN1KWxp9Xo3NNA/edit?usp=sharing&ouid=103484475014003309094&rtpof=true&sd=true>`_.
 
 Data collected and processed by the MR Lab
 ----------------
