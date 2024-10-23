@@ -17,8 +17,10 @@ Welcome to CIMeC's MRI Lab Wiki!
 Basic description
 ===================================
 
-**CIMeC** (Center for Mind/Brain Sciences of University  of Trento)  is a research center committed to developing new techniques for imaging human brain and to applying these techniques toward a more comprehensive understanding and better care of the human mind and body.
-This involves the development and continued improvement of new hardware, software and procedures for data acquisition, visualization and statistical analysis, and the application of these advancements to both basic and clinical neuroscience research. 
+**CIMeC** is an Interdepartmental Centre formed by the Departments of Psychology and Cognitive Sciences, Letters, Mathematics, Physics and Engineering and Information Science (DISI), dedicated to the study of the organization of the brain through the analysis of its functional, structural and psychological characteristics, in normal and pathological conditions. State-of-the-art instrumentation includes functional neuroimaging, MEG, EEG, NIRS, TMS and eye tracking instrumentation, alongside systems for kinematics study. 
+For the strong integration between scientific research, teaching and clinical area, the Center works in close synergy with other structures of the University interested in the area of Cognitive Sciences, in particular with the Department of Psychology and Cognitive Sciences.
+The research activities conducted within the CIMeC are developed in different areas, ranging from experimental psychology, to neuroimaging acquisition methods, to cognitive neuroscience, animal cognition, and finally to Computational Linguistics and Man-Machine Interfaces. In addition, the CeRiN, Center for Neurocognitive Rehabilitation is dedicated to the diagnosis and treatment of pathologies resulting from brain damage.
+The research is carried out in the five interdisciplinary laboratories that make up CIMeC: the Neuroimaging Labs, the Neuropsychology Labs, the Centre for Neurocognitive Rehabilitation, the Computational Cognition Laboratory, the Labs for Experimental Psychology and the Lab for Animal Cognition and Comparative Neuroscience.
 
 MRI Lab
 ---------
