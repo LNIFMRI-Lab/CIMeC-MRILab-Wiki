@@ -80,7 +80,9 @@ The insterested investigator must request a slot in coordination with the `MR La
 
 Human Pilot
 ---------
-The purpose of Human Pilot is for testing if the scanning protocol and the experiment paradigms fits the need of the project.
+The purpose of Human Pilot is for testing if the scan protocol and the experiment paradigms fits the need of the project.
+
+The data generated from the Human Pilot can be useful to the validation of the scan protocol, before the actual experiment begins.
 
 Human Pilots will be scheduled whenever possible.
 
