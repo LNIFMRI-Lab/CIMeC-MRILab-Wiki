@@ -22,6 +22,10 @@ Peripheral Equipment
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
   * Physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
+.. Download Section::
+ * :download:`Amplifier Manual <docs/PCA1.pdf>`
+ * 
+
 Stimulation PCs
 ---------
 
