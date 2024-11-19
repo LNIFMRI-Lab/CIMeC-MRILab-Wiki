@@ -5,6 +5,7 @@ Welcome to CIMeC's MRI Lab Wiki!
   :maxdepth: 1
   :caption: Content
 
+  pages/shortcuts
   pages/accessrules
   pages/equipment
   pages/bestpractices
