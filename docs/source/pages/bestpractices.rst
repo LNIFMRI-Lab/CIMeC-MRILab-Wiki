@@ -50,13 +50,13 @@ Access to this platform can be granted in the following ways:
   - Remote desktop access (`How To <link>`_)
   - Physical access on-site  (`How To <link>`_)
 
-In both cases, access must be requested by reserving a slot via Google Calendar 
+In both cases, access must be requested by reserving a slot via Google Calendar:
 
-
+`Book yout appointment! <https://calendar.app.google/6tfAiucF8KDonYSy7>`_
 
 How to book:
 
-<link to "How To" instructions page>.
+<link to "How To" instructions page>
 
 Human scans
 ---------
