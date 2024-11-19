@@ -9,23 +9,23 @@ Open the "Book your appointment" link on `Best Practices <https://cimec-mrilab-w
 It opens this page where you have to select the slot(s) that you want to book:
 
 .. image:: figures/selectDateandHour.png
-  :width: 400
+  :width: 800
   :alt: SlotSelection
 
 After you have selected the slot there will be a Pop-up where you need to insert your Name, Surname and Institutional Email:
 
 .. image:: figures/insertDatas.png
-  :width: 400
+  :width: 800
   :alt: DataInsertion
 
 Press the "Prenota" button to confirm the booking, there will be a confirmation message in the same Pop-up:
 
 .. image:: figures/confirmation.png
-  :width: 400
+  :width: 800
   :alt: BookingConfirmation
 
 Check if you have the event on your calendar:
 
 .. image:: figures/confirmedSlot.png
-  :width: 400
+  :width: 800
   :alt: ConfirmedSlot
