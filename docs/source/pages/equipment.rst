@@ -15,14 +15,14 @@ Peripheral Equipment
 ----------
   * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-wiki.readthedocs.io/en/latest/pages/equipment.html#visual-presentation>`_ section in this page);
   * 2 x 4 Button Response Pads (`Current Designs <https://www.curdes.com/mainforp/responsedevices/hhsc-2x4-l.html>`_);
-  * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_ :download:`Amplifier Manual <docs/PCA1.pdf>`
+  * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_
   * Button Response Pads Interface (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
   * MR compatible glass frames for adult and pediatric subjects, max visual correction from -6 to +6 with intervals of 0.5 (`Cambridge Research System <https://www.crsltd.com/mri-patient-comfort-communication-and-entertainment/mri-patient-comfort/mediglasses/mediglasses-for-fmri/>`_);
   * Tactile Piezoelectric Stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
   * Physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
-.. Download Section::
+.. note::
  * :download:`Amplifier Manual <docs/PCA1.pdf>`
  * 
 
