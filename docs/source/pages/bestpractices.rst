@@ -52,7 +52,7 @@ Access to this platform can be granted in the following ways:
 
 In both cases, access must be requested by reserving a slot via Google Calendar:
 
-`Book yout appointment! <https://calendar.app.google/6tfAiucF8KDonYSy7>`_
+`Book your appointment! <https://calendar.app.google/6tfAiucF8KDonYSy7>`_
 
 How to book:
 
