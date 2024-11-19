@@ -50,7 +50,29 @@ Access to this platform can be granted in the following ways:
   - Remote desktop access (`How To <link>`_)
   - Physical access on-site  (`How To <link>`_)
 
-In both cases, access must be requested by reserving a slot via Google Calendar <insert calendar address> <link to "How To" instructions page>.
+In both cases, access must be requested by reserving a slot via Google Calendar 
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3ncrIjmsWNRckJOE-qsOklLg7HLzWjrCwNrVpKXB8smYFSV6onrzHU7mS22sJCPAh2CY3Rweya?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
+How to book:
+
+<link to "How To" instructions page>.
 
 Human scans
 ---------
