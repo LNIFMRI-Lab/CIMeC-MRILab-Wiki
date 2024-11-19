@@ -26,6 +26,6 @@ Press the "Prenota" button to confirm the booking, there will be a confirmation 
 
 Check if you have the event on your calendar:
 
-.. image:: figures/confirmedSlot.png
+.. image:: figures/slot.png
   :width: 800
   :alt: ConfirmedSlot
