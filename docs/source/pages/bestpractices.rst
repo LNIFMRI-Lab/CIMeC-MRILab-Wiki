@@ -54,6 +54,7 @@ In both cases, access must be requested by reserving a slot via Google Calendar:
 
 .. note::
     `Book your appointment! <https://calendar.app.google/6tfAiucF8KDonYSy7>`_
+
     `How to book <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html#stim-pc-booking>`_
 
 Human scans
