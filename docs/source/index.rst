@@ -1,6 +1,10 @@
 Welcome to CIMeC's MRI Lab Wiki!
 ===========================
 
+.. warning::
+  This Wiki is provided by MR Lab Staff, is about MR Lab specific rules, equipment, practices, etc... For general CIMeC infos, see `CIMeC General Wiki <https://wiki.cimec.unitn.it/tiki-index.php?page=Home>`_.
+
+
 .. toctree::
   :maxdepth: 1
   :caption: Content
