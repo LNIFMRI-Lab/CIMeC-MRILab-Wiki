@@ -14,6 +14,9 @@ It opens this page where you have to select the slot(s) that you want to book:
 
 After you have selected the slot there will be a Pop-up where you need to insert your Name, Surname and Institutional Email:
 
+.. warning::
+  If the slot is booked without an Institutional Email, the reservation will be canceled.
+
 .. image:: figures/insertDatas.png
   :width: 800
   :alt: DataInsertion
