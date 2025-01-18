@@ -8,6 +8,7 @@ MRI Scanner
 `Siemens Prisma 3T <https://www.siemens-healthineers.com/magnetic-resonance-imaging/3t-mri-scanner/magnetom-prisma>`_:
   * actively shielded;
   * whole body 3T magnet;
+  * bore diameter: 60cm;
   * 80mT/m gradients with a slew rate of 200 T/m/s;
   * 20ch and 64ch Head/Neck RF Coil for experimental neuroimaging applications.
 
@@ -15,8 +16,8 @@ Peripheral Equipment
 ----------
   * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-wiki.readthedocs.io/en/latest/pages/equipment.html#visual-presentation>`_ section in this page);
   * 2 x 4 Button Response Pads (`Current Designs <https://www.curdes.com/mainforp/responsedevices/hhsc-2x4-l.html>`_);
-  * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_
   * Button Response Pads Interface (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
+  * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_
   * MR compatible glass frames for adult and pediatric subjects, max visual correction from -6 to +6 with intervals of 0.5 (`Cambridge Research System <https://www.crsltd.com/mri-patient-comfort-communication-and-entertainment/mri-patient-comfort/mediglasses/mediglasses-for-fmri/>`_);
   * Tactile Piezoelectric Stimulator, 2 x 5 fingers (`QuaeroSys <https://www.quaerosys.com/index.php?lang=en&page=piezostimulator>`_);
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
@@ -26,14 +27,16 @@ Stimulation PCs
 ---------
 
 MRI Lab provides the researchers with:
-  * a Stimulation PC located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
+  * a Stimulation PC (Stim-PC from now on) located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
-  * a Training PC, clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
+  * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
  * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
  * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
+ * StimDev-PC is online, and the researcher can access it using their UniTN account;
+ * StimDev-PC use requires a booking through `this link <https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ncrIjmsWNRckJOE-qsOklLg7HLzWjrCwNrVpKXB8smYFSV6onrzHU7mS22sJCPAh2CY3Rweya>`_
 
-HW Specs
+Hardware Specs
 ~~~~~~~~~~
   * CPU: `Intel Core i7-13700 <https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html>`_, up to 5.2 Ghz, 16 Cores
   * GPU: `NVIDIA GeForce RTX 4060 <https://www.nvidia.com/en-gb/geforce/graphics-cards/40-series/rtx-4060-4060ti/>`_
@@ -41,7 +44,7 @@ HW Specs
 
 The Stim-PC is connected to the NNL Monitor, used to present visual stimuli. Images can be seen by the subject through a mirror put on the Head/Neck Coil.
 
-SW Specs
+Software Specs
 ~~~~~~~~~~
 
 Here you can find the list of installed software:
@@ -111,9 +114,7 @@ Note that the distance from participants eyes and the mirror on the coil can var
 
 Auditory Presentation
 ----------
-Current setup includes very basic auditory capabilities. Participants can hear auditory stimuli sent from Stim-PC through earplugs.
-
-Currently there is no possibility to work with different channels, fine-tune the equalisation or record participants' voice.
+The current setup includes high-quality auditory capabilities. Participants can hear stereo auditory stimuli delivered via Sensimetrics earplugs connected to the Stim-PC through an amplifier, ensuring high-quality audio presentation.
 
 Peripherals Scheme
 --------------
@@ -124,6 +125,10 @@ Here you can find a schematic representation of how the peripheral equipment is 
 
 Help
 -------
-You can always send an email to `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_ asking generic questions.
+**QUI IO METTEREI IL LINK ALLA DISCUSSION BOARD PIù CHE ALLA MAIL**
 
-In this way the whole staff will notice your request and specific staff memebers would combine their efforts to provide you an answer.
+See `FAQs <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/FAQ.html>`_ page.
+
+If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the discussion board <link> for further support.
+
+If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the laboratory for further support.
