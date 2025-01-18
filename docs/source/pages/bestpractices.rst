@@ -108,6 +108,6 @@ Important
   
   In the unfortunate event of a slot cancellation, if MR Lab is somehow responsible (e.g.: scanner not working; staff members not avaiable), then the researcher will not be charged for scan time.
   
-  Lab practice suggests to pack researcher slots one after the other in single sessions made up of several participants. Inter-session intervals make it hard for the staff to arrange all the scan time requests throughout the researchers.
+Lab practice suggests to pack researcher slots one after the other in single sessions made up of several participants. Inter-session intervals make it hard for the staff to arrange all the scan time requests throughout the researchers.
   
-  Should researchers have, within their project, more sources to pay scan time, please make them letting the staff know it. This is crucial to properly charge specific scan time to specific projects.
+Should researchers have, within their project, more sources to pay scan time, please make them letting the staff know it. This is crucial to properly charge specific scan time to specific projects.
