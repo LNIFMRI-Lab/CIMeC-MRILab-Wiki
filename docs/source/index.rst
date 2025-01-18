@@ -13,7 +13,7 @@ Welcome to CIMeC's MRI Lab Wiki!
   pages/accessrules
   pages/equipment
   pages/bestpractices
-  pages/mrdatastorageandprocessing
+  pages/mrdatamanagement
   pages/facilitycosts
   pages/howto
   pages/resources
