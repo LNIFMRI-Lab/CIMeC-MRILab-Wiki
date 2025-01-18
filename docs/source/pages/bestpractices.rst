@@ -98,6 +98,15 @@ Open slots can be requested online directly on the `Booking System <https://apps
 
 PIs are responsible for informing as soon as possible if they cannot use a scan slot allocated to them (email the staff, indicating the reasing why the slot cannot be used).
 
+To conduct experiments involving Human Volunteer Subjects, it is mandatory to perform a medical history assessment to determine their compatibility with entering the MRI scanner. This assessment is conducted by the MRI staff via a phone interview.
+
+Therefore, it is mandatory to provide the MRI Staff with the volunteers' information (full name, phone number, email address, and ideally date of birth) no later than **XXX** prior to the experiment. This ensures that the MRI staff has sufficient time to carry out this task.
+
+.. warning::
+  Researchers must consider that it is possible for a participant to be deemed **NOT ELIGIBLE** based on the assessment, in which case they will not be able to participate in the experiment.
+
+The MRI Staff will ask the Volunteer Subject to sign the completed medical history form and a declaration regarding incidental findings upon their arrival at the MRI Lab to participate in the experiment.
+
 Important
 -------
 .. warning::
@@ -111,3 +120,5 @@ Important
 Lab practice suggests to pack researcher slots one after the other in single sessions made up of several participants. Inter-session intervals make it hard for the staff to arrange all the scan time requests throughout the researchers.
   
 Should researchers have, within their project, more sources to pay scan time, please make them letting the staff know it. This is crucial to properly charge specific scan time to specific projects.
+
+
