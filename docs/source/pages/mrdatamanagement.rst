@@ -1,4 +1,4 @@
-MR Data Storage and Processing
+MR Data Management
 ==============
 Introduction
 -------------
