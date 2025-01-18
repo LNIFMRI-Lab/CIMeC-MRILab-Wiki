@@ -1,3 +1,3 @@
 CIMeC MRI Lab Wiki
 =======================================
-About MRI Lab stuff.
+This Wiki is provided by MRI Lab Staff, is about MRI Lab specific rules, equipment, practices, etc...
