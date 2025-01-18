@@ -1,4 +1,4 @@
-Data Handling within the MRI Lab
+Data Handling
 ==============
 Introduction
 -------------
