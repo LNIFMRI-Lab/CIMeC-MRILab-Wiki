@@ -1,4 +1,4 @@
-MR Data Management
+Data Handling within the MRI Lab
 ==============
 Introduction
 -------------
