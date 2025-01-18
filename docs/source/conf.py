@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CIMeC MRI Lab Wiki'
-copyright = '2025, CIMeCsMRI Lab Staff'
+copyright = '2025, CIMeC MRI Lab Staff'
 author = 'Alberto Finora'
 
 release = '0.9'
