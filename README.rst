@@ -1,3 +1,3 @@
-CIMeC Wiki
+CIMeC MRI Lab Wiki
 =======================================
-About Lab structure and coding examples.
+About MRI Lab stuff.
