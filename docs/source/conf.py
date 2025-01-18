@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'CIMeC MRI Lab Wiki'
-copyright = '2024, Alberto'
-author = 'Alberto'
+copyright = '2025, CIMeCsMRI Lab Staff'
+author = 'Alberto Finora'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.9'
+version = '0.9.9'
 
 # -- General configuration
 
