@@ -15,23 +15,23 @@ In-Lab Behavior
 ----------
   - Do not consume food or beverages in the experimental area, which includes the Stim-PC area, desks designated for research staff, technical staff desks, and the MRI console. There are designated areas in the reception and the break rooms in Building 10.
 
-  - Access to the area is granted only via intercom to personnel who meet the specified requirements, as outlined in `Access Rules <https://cimec-wiki.readthedocs.io/en/latest/pages/accessrules.html>`_.
+  - Access to the area is granted only via intercom to personnel who meet the specified requirements, as outlined in `Access Rules <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/accessrules.html#access-rules>`_.
 
 MRI Project & experiments
 ----------
-In order to start a study in the MRI Facility, all criteria for accessing the CIMeC facility (`Access Rules <https://cimec-wiki.readthedocs.io/en/latest/pages/accessrules.html>`_) must be met.
+In order to start a study in the MRI Facility, all criteria for accessing the CIMeC facility (`Access Rules <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/accessrules.html#access-rules>`_) must be met.
 
 In addition, before submitting the project proposal (PPM) to the `Research Ethics Committee <https://www.unitn.it/en/ricerca/1755/research-ethics-committee>`_, the researcher must present it to the Lab Manager (FM), ER and MR. The guidelines for the PPM presentation are available in writing <insert link>. The PPM assesses the project's feasibility from the perspective of safety and organisational impact on the Facility.
 
 The researchers with granted access to the MRI Lab must therefore be part of a project approved by the Research Ethics Committee and which is active at the time of booking.
 
-Once the project is active (after the start date, as relayed by the PI to the Research Ethics Committee), the researcher must coordinate with the MRI Lab Staff to organise a trial run of the experiment at the MRI Lab (referred to as a `Phantom Session <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#phantom-sessions>`_, see section below).
+Once the project is active (after the start date, as relayed by the PI to the Research Ethics Committee), the researcher must coordinate with the MRI Lab Staff to organise a trial run of the experiment at the MRI Lab (referred to as a `Phantom Session <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#phantom-sessions>`_, see section below).
 
-Following successful completion of the Phantom Session, a trial session must be organised with a participant in the scanner (i.e., the `Human Pilot <link>`_).
+Following successful completion of the Phantom Session, a trial session must be organised with a participant in the scanner (i.e., the `Human Pilot <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#id4>`_).
 
 Code Testing
 ----------------
-The StimDev-PC is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Room I-48 (see `Subject Training <https://cimec-wiki.readthedocs.io/en/latest/pages/bestpractices.html#subject-training>`_ section in this page). 
+The StimDev-PC is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Room I-48 (see `Subject Training <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#id3>`_ section in this page). 
 
 Access to this platform can be granted in the following ways:
 
@@ -66,7 +66,7 @@ This is crucial to have a working experimental setup for the studies.
 
 Phantom Scans will be scheduled whenever possible. Keep in mind that when the MR Lab is open for Human Scans, these will have priority.
 
-The insterested investigator must request a slot in coordination with the `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_.
+The insterested investigator must request a slot in coordination with the `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_.
 
 Subject Training
 -----------
@@ -86,11 +86,11 @@ The data generated from the Human Pilot can be useful to the validation of the s
 
 Human Pilots will be scheduled whenever possible.
 
-The insterested investigator must request a slot in coordination with the `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_.
+The insterested investigator must request a slot in coordination with the `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_.
 
 Human Scans
 ---------
-Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of...) for an update of their specific scan needs and constraints for the following month (email the `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_ for questions and requests).
+Each PI of an approved project is asked periodically (e.g.: monthly, on the third week of the month; every quarter of...) for an update of their specific scan needs and constraints for the following month (email the `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_ for questions and requests).
 
 The MR Lab `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_ is arranged considering scanner availability and priorities of all requests.
 
