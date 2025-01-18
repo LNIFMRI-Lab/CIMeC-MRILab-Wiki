@@ -1,4 +1,4 @@
-How To ... WIP
+How To ...
 ============
 
 Stim-PC Booking
