@@ -14,7 +14,7 @@ MRI Scanner
 
 Peripheral Equipment
 ----------
-  * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-wiki.readthedocs.io/en/latest/pages/equipment.html#visual-presentation>`_ section in this page);
+  * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/equipment.html#id2>`_ section in this page);
   * 2 x 4 Button Response Pads (`Current Designs <https://www.curdes.com/mainforp/responsedevices/hhsc-2x4-l.html>`_);
   * Button Response Pads Interface (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
   * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_
@@ -32,7 +32,7 @@ MRI Lab provides the researchers with:
   * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
  * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
- * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
+ * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
  * StimDev-PC is online, and the researcher can access it using their UniTN account;
  * StimDev-PC use requires a booking through `this link <https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ncrIjmsWNRckJOE-qsOklLg7HLzWjrCwNrVpKXB8smYFSV6onrzHU7mS22sJCPAh2CY3Rweya>`_
 
