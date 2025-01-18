@@ -100,7 +100,7 @@ PIs are responsible for informing as soon as possible if they cannot use a scan 
 
 To conduct experiments involving Human Volunteer Subjects, it is mandatory to perform a medical history assessment to determine their compatibility with entering the MRI scanner. This assessment is conducted by the MRI staff via a phone interview.
 
-Therefore, it is mandatory to provide the MRI Staff with the volunteers' information (full name, phone number, email address, and ideally date of birth) no later than **XXX** prior to the experiment. This ensures that the MRI staff has sufficient time to carry out this task.
+Therefore, it is mandatory to provide the MRI Staff with the volunteers' informations (full name, phone number, email address, and ideally date of birth) no later than 12:00 PM on the day before the scheduled slot. If the slot is scheduled on a Monday, the informations must be sent by 12:00 PM on the preceding Friday. This ensures that the MRI staff has sufficient time to carry out this task.
 
 .. warning::
   Researchers must consider that it is possible for a participant to be deemed **NOT ELIGIBLE** based on the assessment, in which case they will not be able to participate in the experiment.
