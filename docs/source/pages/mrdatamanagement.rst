@@ -2,7 +2,7 @@ Data Handling
 ==============
 Introduction
 -------------
-Management of the data collected at the MR Lab is based on the guidelines described in the `CIMeC General Data Protection Regulation <linktoPDF>`_, which applies Regulation (EU) 2016/679 General Data Protection Regulation (GDPR), to scientific research.
+Management of the data collected at the MR Lab is based on the guidelines described in the `CIMeC General Data Protection Regulation <https://docs.google.com/document/d/1Nfa8i61-7nWXPcwL1KpN1KWxp9Xo3NNA/edit?usp=sharing&ouid=103484475014003309094&rtpof=true&sd=true>`_, which applies Regulation (EU) 2016/679 General Data Protection Regulation (GDPR), to scientific research.
 
  - GDPR `ENG <https://eur-lex.europa.eu/eli/reg/2016/679/oj>`_ - `ITA <https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=it>`_
 
