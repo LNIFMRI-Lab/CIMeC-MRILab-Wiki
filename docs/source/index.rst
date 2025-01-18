@@ -25,17 +25,16 @@ Center for Mind/Brain Sciences (CIMeC): Outline
 
 `**CIMeC** <https://www.cimec.unitn.it/en>`_ is an Interdepartmental Center formed by the Departments of Psychology and Cognitive Sciences, Letters, Mathematics, Physics and Engineering and Information Science (DISI), dedicated to the study of the organization of the brain through the analysis of its functional, structural and psychological characteristics, in normal and pathological conditions. State-of-the-art instrumentation includes functional neuroimaging, MEG, EEG, NIRS, TMS and eye tracking instrumentation, alongside systems for kinematics study.
 
-For more informations about the Laboratories, see `here <https://www.cimec.unitn.it/en/42/laboratories>`_.
-
 For the strong integration between scientific research, teaching and clinical area, the Center works in close synergy with other structures of the University interested in the area of Cognitive Sciences, in particular with the Department of Psychology and Cognitive Sciences.
 The research activities conducted within the CIMeC are developed in different areas, ranging from experimental psychology, to neuroimaging acquisition methods, to cognitive neuroscience, animal cognition, and finally to Computational Linguistics and Man-Machine Interfaces. In addition, the CeRiN, Center for Neurocognitive Rehabilitation is dedicated to the diagnosis and treatment of pathologies resulting from brain damage.
-The research is carried out in the five interdisciplinary laboratories that make up CIMeC: the Neuroimaging Labs, the Neuropsychology Labs, the Centre for Neurocognitive Rehabilitation, the Computational Cognition Laboratory, the Labs for Experimental Psychology and the Lab for Animal Cognition and Comparative Neuroscience.
 
-MRI Lab
+The research is carried out in the five interdisciplinary `laboratories <https://www.cimec.unitn.it/en/42/laboratories>`_. that make up CIMeC: the Neuroimaging Labs, the Neuropsychology Labs, the Centre for Neurocognitive Rehabilitation, the Computational Cognition Laboratory, the Labs for Experimental Psychology and the Lab for Animal Cognition and Comparative Neuroscience.
+
+CIMeC's MRI Lab: Mission
 ---------
 The MRI Lab allows users to acquire advanced human MRI data (e.g. fMRI, DTI, VBM, Spectroscopy) with cutting-edge MRI technologies. The mission of the lab is to provide a safe and effective environment to its users, in order to allow them to focus exclusively on the scientific content of their experiment.
 
-How to reach us
+CIMeC's MRI Lab: How to reach us
 ---------------
 Where we are:
   `Rovereto Manifattura <https://maps.app.goo.gl/h1kJoeKancYbxb1r6/>`_
