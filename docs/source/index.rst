@@ -59,3 +59,4 @@ Here you can find a map to help you access the MR Lab:
 
 .. image:: pages/figures/LNIFMRI_AccessTheNewSite.png
   :width: 800
+  :align: center
