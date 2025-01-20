@@ -77,6 +77,7 @@ If a pre-scan training/testing session is required, the researcher and participa
 .. image:: figures/placeholder.png
   :width: 400
   :alt: Room I-48
+  :align: center
 
 Human Pilot
 ---------
