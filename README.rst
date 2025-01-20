@@ -1,4 +1,4 @@
-.. image:: docs/source/pages/figures/cimec_logo.png
+.. image:: docs/source/pages/figures/cimec_logo1.png
   :width: 500
 
 
