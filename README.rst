@@ -1,5 +1,5 @@
 .. image:: docs/source/pages/figures/cimec_logo.png
-  :width: 300
+  :width: 500
 
 
 CIMeC MRI Lab Wiki
