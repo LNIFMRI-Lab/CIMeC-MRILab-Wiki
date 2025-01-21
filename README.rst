@@ -3,7 +3,7 @@
   :width: 500
 
 
-CIMeC MRI Lab Wiki
+`CIMeC MRI Lab Wiki <https://cimec-mrilab-wiki.readthedocs.io/en/latest/>`_
 =======================================
 The MRI Lab has developed a comprehensive Wiki that is hosted on ReadTheDocs, a platform designed for sharing and maintaining detailed documentation. This Wiki serves as a centralized repository of information specifically tailored to the MRI Lab’s rules, equipment, and operational practices.
 
