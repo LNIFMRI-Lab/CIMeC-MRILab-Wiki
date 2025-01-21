@@ -14,7 +14,7 @@ MRI Scanner
 
 Peripheral Equipment
 ----------
-  * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the Magnet room (see `Visual Presentation <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/equipment.html#id2>`_ section in this page);
+  * 40" LCD monitor for visual stimuli from `Nordic NeuroLab <https://www.nordicneurolab.com/products/inroomviewing-device>`_ (NNL), always inside the MRI Room (see `Visual Presentation <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/equipment.html#id2>`_ section in this page);
   * 2 x 4 Button Response Pads (`Current Designs <https://www.curdes.com/mainforp/responsedevices/hhsc-2x4-l.html>`_);
   * Button Response Pads Interface (`Current Designs <https://www.curdes.com/mainforp/interfaces/fiu-932b.html>`_);
   * Earplugs from `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ connected to the Stim-PC via `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_
@@ -27,7 +27,7 @@ Stimulation PCs
 ---------
 
 MRI Lab provides the researchers with:
-  * a Stimulation PC (Stim-PC from now on) located in the control room, connected to the Peripheral Equipment within the Magnet room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
+  * a Stimulation PC (Stim-PC from now on) located in the control room, connected to the Peripheral Equipment within the MRI Room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
   * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
@@ -100,7 +100,7 @@ You can check the responses by focusing on the Trigger/Button Box during the exp
 
 Visual Presentation
 ---------
-For the visual stimuli presentation, MRI Lab provides a compatible NNL LCD monitor positioned at the back of the magnet bore.
+For the visual stimuli presentation, MRI Lab provides a compatible NNL LCD monitor positioned at the back of the Magnet Bore.
 
 Basic monitor specs include:
  * 40" (878 mm horizontal x 485 mm vertical);
