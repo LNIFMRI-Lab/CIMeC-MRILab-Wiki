@@ -8,7 +8,7 @@ Access to the CIMeC's MRI Facility is regulated on two different levels. An MRI 
 
 For safety reasons, the facility is a controlled zone; researchers can only enter if accompanied by a member of the MRI Staff.
 
-In the MRI Lab, experiments (human scans) can be carried out as long as the required healthcare staff are avaiable (MRI Technician and, if applicable, a Doctor to perform an examination) every week Monday to Friday, 8AM to 8PM (excluding public holidays or other days communicated by the MRI Staff).
+In the MRI Lab, experiments (human scans) can be carried out as long as the required healthcare staff are avaiable (MRI Technician and, if applicable, a Radiologist to perform an examination) every week Monday to Friday, 8AM to 8PM (excluding public holidays or other days communicated by the MRI Staff).
 
 Training
 ----------
