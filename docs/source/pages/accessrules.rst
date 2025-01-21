@@ -2,13 +2,9 @@ Access Rules
 ===========================
 Regulation
 ----------
-Access to the CIMeC's MRI Facility is regulated on two different levels. An MRI Lab safety course trains for both levels:
-  * Researcher Level: guaranteed access to the MRI Lab, under the supervision of a member of the MRI Lab Staff, but no to the magnet room;
-  * MRI Staff Level: autonomous access to the MRI Lab, including the magnet room.
+Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room.
 
-For safety reasons, the facility is a controlled zone; researchers can only enter if accompanied by a member of the MRI Staff.
-
-In the MRI Lab, experiments (human scans) can be carried out as long as the required healthcare staff are available (MRI Technician and, if applicable, a Radiologist to perform an examination) on working days, 8AM to 7PM (excluding public holidays or other days communicated by the MRI Staff).
+In the MRI Lab, experiments (Human Scans) can be carried out as long as the required healthcare staff are available (MRI Technician and, if applicable, a Radiologist to perform an experiment) on working days, 8AM to 7PM (excluding public holidays or other days communicated by the MRI Staff).
 
 Training
 ----------
@@ -33,10 +29,10 @@ For the three-year renewal of authorisation to access the MRI Lab, the researche
 Regardless of training, Bachelors/Master’s and other undergraduate students, as well as undergraduate trainees, can access the Lab only when accompanied by the researcher carrying out the experiment.
  * Max number of researchers/students that can enter the lab at the same time???
 
-Annual authorisation to access the MRI Lab Magnet Room
+Annual authorisation to access the MRI Room
 -------------
-If the researcher needs special access to not only the MRI Lab but also to take volunteers into the magnet room, the following is also required:
- * certificate of fitness to work in the Magnet Room, issued by the appointed physician for health at work; this authorisation is entered into `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ by the ER (valid for one year).
+If the researcher needs special access to not only the MRI Lab but also to take volunteers into the MRI Room, the following is also required:
+ * certificate of fitness to work in the MRI Room, issued by the appointed physician for health at work; this authorisation is entered into `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ by the ER (valid for one year).
 
-For annual renewal of authorisation to access the Magnet Room, the researcher must:
- * renew the certificate of fitness to work in the Magnet Room, again issued by the appointed physician for health at work; again entered into `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ by the ER (valid for one year).
+For annual renewal of authorisation to access the MRI Room, the researcher must:
+ * renew the certificate of fitness to work in the MRI Room, again issued by the appointed physician for health at work; again entered into `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ by the ER (valid for one year).
