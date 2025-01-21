@@ -23,6 +23,9 @@ Peripheral Equipment
   * Eye Tracker (`Eyelink <https://www.sr-research.com/fmri-meg-systems/>`_);
   * Physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
+.. warning::
+ It is possible to use additional peripheral devices provided by the Researchers; however, these must be approved by the Magnetic Resonance Safety Officer (MRSO) and the MRI Staff. The devices must meet the requirements for Electromagnetic Compatibility and Safety to ensure their suitability for use in Zone 4.
+
 Stimulation PCs
 ---------
 
@@ -117,6 +120,8 @@ Auditory Presentation
 ----------
 The current setup includes high-quality auditory capabilities. Participants can hear stereo auditory stimuli delivered via Sensimetrics earplugs connected to the Stim-PC through an amplifier, ensuring high-quality audio presentation.
 
+For more specs, see `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ and `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_.
+
 Peripherals Scheme
 --------------
 Here you can find a schematic representation of how the peripheral equipment is connected to the MR scanner and the Stim-PC:
@@ -126,10 +131,9 @@ Here you can find a schematic representation of how the peripheral equipment is 
 
 Help
 -------
-**QUI IO METTEREI IL LINK ALLA DISCUSSION BOARD PIù CHE ALLA MAIL**
 
-See `FAQs <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/FAQ.html>`_ page.
+ * See `FAQs <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/FAQ.html>`_ page.
 
-If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the discussion board <link> for further support.
+ * If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the `Discussion Board <https://github.com/orgs/LNIFMRI-Lab/discussions>`_ (`Link to Discussion Board Registration Form <https://forms.gle/s7nn7CRL5LL1yviq7>`_) for further support.
 
-If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the laboratory for further support.
+If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the MRI Lab for further support.
