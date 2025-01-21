@@ -120,7 +120,7 @@ Auditory Presentation
 ----------
 The current setup includes high-quality auditory capabilities. Participants can hear stereo auditory stimuli delivered via Sensimetrics earplugs connected to the Stim-PC through an amplifier, ensuring high-quality audio presentation.
 
-To ensure optimal audio stimuli, they must be created with a frequency of 48 kHz and equalized by following `this guide <https://www.sens.com/products/model-s14/#downloads>`_.
+To ensure optimal audio stimuli, they must be created with a frequency of 48 kHz and equalized by following `this guide <https://www.sens.com/products/model-s14/#downloads>`_ using EQ_Filtering 4.0.
 
 For more specs, see `Sensimetric <https://www.sens.com/products/earphones-for-fmri-research/>`_ and `Pyle USA PCA1 Amplifier <https://pyleusa.com/products/pca1>`_.
 
