@@ -2,7 +2,7 @@ Access Rules
 ===========================
 Regulation
 ----------
-Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room.
+Access to the MRI Lab (Zone 3, see the `planimetry <link>`_) is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4).
 
 In the MRI Lab, experiments (Human Scans) can be carried out as long as the required healthcare staff are available (MRI Technician and, if applicable, a Radiologist to perform an experiment) on working days, 8AM to 7PM (excluding public holidays or other days communicated by the MRI Staff).
 
@@ -27,7 +27,9 @@ After completing general training, new users must complete the following steps:
 Once these steps have been completed, `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ allows the researcher to access the `Booking System <https://apps.cimec.unitn.it/cis/calendar.php?lang=en>`_ (using UniTN credentials) and, thus, to access the laboratory.
 For the three-year renewal of authorisation to access the MRI Lab, the researcher must carry out MRI Safety Course Retraining, and passing it must be entered into `CLARA <https://apps.cimec.unitn.it/cis/projects.php>`_ by the ER for another three years of validity.
 Regardless of training, Bachelors/Master’s and other undergraduate students, as well as undergraduate trainees, can access the Lab only when accompanied by the researcher carrying out the experiment.
- * Max number of researchers/students that can enter the lab at the same time???
+
+.. warning::
+  For safety reasons, a maximum number of three (3) researchers, students included, are allowed to access Zone 3.
 
 Annual authorisation to access the MRI Room
 -------------
