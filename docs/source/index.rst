@@ -31,11 +31,11 @@ The research activities conducted within the CIMeC are developed in different ar
 The research is carried out in the five interdisciplinary `laboratories <https://www.cimec.unitn.it/en/42/laboratories>`_. that make up CIMeC: the Neuroimaging Labs, the Neuropsychology Labs, the Centre for Neurocognitive Rehabilitation, the Computational Cognition Laboratory, the Labs for Experimental Psychology and the Lab for Animal Cognition and Comparative Neuroscience.
 
 CIMeC's MRI Lab: Mission
----------
+===================================
 The MRI Lab allows users to acquire advanced human MRI data (e.g. fMRI, DTI, VBM, Spectroscopy) with cutting-edge MRI technologies. The mission of the lab is to provide a safe and effective environment to its users, in order to allow them to focus exclusively on the scientific content of their experiment.
 
 CIMeC's MRI Lab: How to reach us
----------------
+===================================
 Where we are:
   `Rovereto Manifattura <https://maps.app.goo.gl/h1kJoeKancYbxb1r6/>`_
 
