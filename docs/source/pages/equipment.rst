@@ -31,10 +31,11 @@ MRI Lab provides the researchers with:
 
   * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area and used to test paradigms and to train subjects outside the MR Scanner.
 
- * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
- * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
- * StimDev-PC is online, and the researcher can access it using their UniTN account;
- * StimDev-PC use requires a booking through `this link <https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ncrIjmsWNRckJOE-qsOklLg7HLzWjrCwNrVpKXB8smYFSV6onrzHU7mS22sJCPAh2CY3Rweya>`_
+.. note::
+  * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
+  * Stim-PC is not updated on researchers requests. Current software equipment was judged as stable and powerful enough for most of the experiments, specific requests could be evaluated and implemented by `MR Lab Staff <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/contacts.html>`_;
+  * StimDev-PC is online, and the researcher can access it using their UniTN account;
+  * StimDev-PC use requires a booking through `this link <https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3ncrIjmsWNRckJOE-qsOklLg7HLzWjrCwNrVpKXB8smYFSV6onrzHU7mS22sJCPAh2CY3Rweya>`_
 
 Hardware Specs
 ~~~~~~~~~~
