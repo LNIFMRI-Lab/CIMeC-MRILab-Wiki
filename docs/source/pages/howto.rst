@@ -2,7 +2,6 @@ How To ...
 ============
 
 .. dropdown:: StimDev-PC Booking
----------------
 
 Open the "Book your appointment" link on `Best Practices <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#code-testing>`_ page of the Wiki.
 
