@@ -1,16 +1,16 @@
-MR Data Retrieving System (CDRMS)
+MR Data Retrieving
 ===============
 
 Introduction
 ------------
 
-The purpose of the data retrieving system (CDMRS) is to provide a repository of raw MR Data (and compounds) that users can download. Furthermore, the system allows searching and sharing between projects existing structural MRI data (e.g. for MEG and TMS experiments). You can reach the data retrieving system at `this link <https://dicom.cimec.unitn.it/CDRMS-WEB>`_.
+The purpose of the CIMeC Data Retrieving System (CDRMS) is to provide a repository of raw MR Data (and compounds) that users can download. Furthermore, the system allows searching and sharing between projects existing structural MRI data (e.g. for MEG and TMS experiments). You can reach the CDRMS at `this link <https://dicom.cimec.unitn.it/CDRMS-WEB>`_ (Open this link from `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_).
 
 The application allows you browsing and downloading, down to the single sequence level, all MR data acquired within your CIMeC approved projects that involves MR Scans. Detailed information about volunteer, projects, exams and sequences are available, together with a preview of the single raw images. During a download session you can choose among a couple of DICOM sorting options. A text file (scan_list.txt) with a summary of exam/sequences information will be saved on your disk for each exam. A text file containing detailed sequence information will be saved within each sequence (text_header.txt). The system also manages physiological data acquired during scans, provided that, before starting the exam, you requested MRI Staff to register and upload them.
 The retrieving system also manages data sharing between projects: if your project needs structural data of a volunteer that already partecipated in some experiments at MRI lab, you can search the database for his/her anatomical MRI sequences (if they has been made shareable by the correspondent PI). If you are a PI of a project that produces MRI Structural Data you can manage your shares. A form useful for contacting automatically by email all volunteers with available anatomical data is also available.
 Please remember that data sharing is possible only between CIMeC projects approved by Research Ethical Committee.
 
-Any suggestion,feedback, request, criticism etc ... is welcome and will be discussed by the IT offi ce together with the head of the LNIF-MRI lab.
+Any suggestion,feedback, request, criticism etc ... is welcome and will be discussed by the IT office together with the head of the MRI Staff.
 
 Requirements
 -------------
@@ -20,8 +20,8 @@ In order to use CDRMS the following requirements are mandatory:
   - Working within the UniTN Network (a VPN connection is required of working remotely);
   - Being member of a CIMeC approved project that involves MRI Scanning;
   - Having UniTN credentials with a password not older than 3 months, this constraint follow on from UniTN Data Protection Policy;
-  - Using only Mozilla Firefox Web Browser, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, 'tls' in the seach box and set ``1`` the ``security.tls.version.min`` option and set ``true`` at ``security.tls.version.enable-deprecated`` option. (for a in depth guide, see the `How to ... page <link>`_).
-  - Having Java Runtime version less than 8u291 installed on your computer (`download 8u231 <>`_).
+  - Using only `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, 'tls' in the seach box and set ``1`` the ``security.tls.version.min`` option and set ``true`` at ``security.tls.version.enable-deprecated`` option. (for a in depth guide, see the `How to ... page <link>`_).
+  - Having Java Runtime version less than 8u291 installed on your computer (Download Java SE Runtime Environment 8u231 from `here <https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#:~:text=Java%20SE%20Runtime%20Environment%208u231>`_).
 
 How to retrieve data
 -------------
