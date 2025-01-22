@@ -20,7 +20,7 @@ In order to use CDRMS the following requirements are mandatory:
   - Working within the UniTN Network (a VPN connection is required of working remotely);
   - Being member of a CIMeC approved project that involves MRI Scanning;
   - Having UniTN credentials with a password not older than 3 months, this constraint follow on from UniTN Data Protection Policy;
-  - Using only Mozilla Firefox Web Browser, allowing TLS protocol 1.0 typing 'about:config' in the address bar, 'tls' in the seach box and set '1' the 'security.tls.version.min' option and set 'true' at 'security.tls.version.enable-deprecated' option. (for a in depth guide, see the `How to ... page <link>`_).
+  - Using only Mozilla Firefox Web Browser, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, 'tls' in the seach box and set ``1`` the ``security.tls.version.min`` option and set ``true`` at ``security.tls.version.enable-deprecated`` option. (for a in depth guide, see the `How to ... page <link>`_).
   - Having Java Runtime version less than 8u291 installed on your computer (`download 8u231 <>`_).
 
 How to retrieve data
@@ -35,7 +35,7 @@ Once logged into CDRMS you can easily browse and select your data for retrieving
   - Download session:
       after you press download Java will start on your computer, connecting you directly with the PACS archive where images are stored. The first time you start a download session you have to confirm a security exception by choosing Always trust content from this publisher and pressing Yes. The CDRMS Download Manager, will start. Choose the directory in which you want to save your data and press Start download. The application will download all the selected data in the directory you specify.
   -  Solving Java security issue:
-      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add 'https://dicom.cimec.unitn.it' to the Exception site list (see`How to ... <link>`_ to consult a short graphical guide).
+      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add 'https://dicom.cimec.unitn.it' to the Exception site list (see `How to ... <link>`_ to consult a short graphical guide).
 
 How to obtain MRI Structural Data from another project
 -------------
