@@ -17,7 +17,6 @@ Welcome to CIMeC's MRI Lab Wiki!
   pages/cdrms
   pages/facilitycosts
   pages/howto
-  pages/resources
   pages/FAQ
   pages/contacts
 
