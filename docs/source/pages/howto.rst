@@ -78,8 +78,8 @@ How To ...
             - Open a terminal window.
             - Type the command ControlPanel (case-sensitive) and press Enter. This will launch the Java Control Panel if it is installed.
 
-.. warning::
-    If the ControlPanel command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command java -version to quickly check the installed Java version.
+    .. warning::
+        If the ControlPanel command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command java -version to quickly check the installed Java version.
 
         - Check the Java Version:
             - In the Java Control Panel, go to the General tab.
