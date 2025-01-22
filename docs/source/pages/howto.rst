@@ -108,4 +108,30 @@ How To ...
             - A dialog box will appear displaying the installed Java version.
      .. warning::
         If the :bdg-secondary:`ControlPanel` command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command ``java -version`` to quickly check the installed Java version.
-    
+
+
+    - To Solve Java Security issue:
+        - Go to the ``Security`` tab of the Java Control Panel and click on the ``Edit Site List`` button
+
+             .. image:: figures/JavaSecurity1.png
+                :width: 800
+                :alt: JavaSecurity1
+        
+        - A new window will appear where you have to click on the ``Add`` button
+
+             .. image:: figures/JavaSecurity2.png
+                :width: 800
+                :alt: JavaSecurity2
+
+        - Type ``https://dicom.cimec.unitn.it`` in the row that will compare after you have clicked the ``Add`` button and press Enter (Red Arrow in the image below). Then click the ``OK`` button.
+
+             .. image:: figures/JavaSecurity3.png
+                :width: 800
+                :alt: JavaSecurity3
+
+        - Verify that this procedure was successfull by checkling if the URL is present in the ``Exception Site List`` (Red Arrow in the image below). If you do not see the URL written there, repeat the previous passages until this passage is correct. Click the ``OK`` button to confirm the procedure.
+
+             .. image:: figures/JavaSecurity4.png
+                :width: 800
+                :alt: JavaSecurity4
+        
