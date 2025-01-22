@@ -35,7 +35,7 @@ Once logged into CDRMS you can easily browse and select your data for retrieving
   - Download session:
       after you press download Java will start on your computer, connecting you directly with the PACS archive where images are stored. The first time you start a download session you have to confirm a security exception by choosing Always trust content from this publisher and pressing Yes. The CDRMS Download Manager, will start. Choose the directory in which you want to save your data and press Start download. The application will download all the selected data in the directory you specify.
   -  Solving Java security issue:
-      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add 'https://dicom.cimec.unitn.it' to the Exception site list (see `How to ... <link>`_ to consult a short graphical guide).
+      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add 'https://dicom.cimec.unitn.it' to the Exception site list (see `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ to consult a short graphical guide).
 
 How to obtain MRI Structural Data from another project
 -------------
