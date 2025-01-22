@@ -40,7 +40,7 @@ Once logged into CDRMS you can easily browse and select your data for retrieving
 How to obtain MRI Structural Data from another project
 -------------
 
-If you are member of a project, approved by our ethical commitee, that needs a structural scan of a volunteer that already partecipated to an MRI experiment at LNIF, follow these steps (see also this step-by-step graphical guide):
+If you are member of a project, approved by our ethical commitee, that needs a structural scan of a volunteer that already partecipated to an MRI experiment at CIMeC, follow these steps:
 
   - Log into the retrieving system and open the Search MR sequences page.
   - At this point we assume you have already contacted the volunteer. If not, you can use the Contact subjects by e-mail form: this will send an e-mail to all volunteers for whom structural data are available. Please, use this feature with caution! Any abuse will be monitored.
@@ -52,7 +52,7 @@ If you are member of a project, approved by our ethical commitee, that needs a s
 How to share MRI Data to another project
 -------------
 
-If you are a PI of a project, approved by our ethical commitee, producing MRI structural data and you want your data to be shareable (i.e. allow people search/ask for your data) please contact the head of the LNIF-MRI lab or the IT Office. If you already did that and now you just want to share structural sequences to another project, follow these steps (consult `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide):
+If you are a PI of a project, approved by our ethical commitee, producing MRI structural data and you want your data to be shareable (i.e. allow people search/ask for your data) please contact the head of the LNIF-MRI lab or the IT Office. If you already did that and now you just want to share structural sequences to another project, follow these steps:
 
   - At this point we assume that:
       - the requesting PI provided/shown you a copy of the volunteer consent (you must take care controlling the volunteer gave consent).
