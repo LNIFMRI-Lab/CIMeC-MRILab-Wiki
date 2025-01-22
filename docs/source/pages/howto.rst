@@ -10,7 +10,8 @@ How To ...
     .. image:: figures/selectDateandHour.png
       :width: 800
       :alt: SlotSelection
-    
+
+    |
     | After you have selected the slot there will be a Pop-up where you need to insert your Name, Surname and Institutional Email:
     
     .. warning::
@@ -19,13 +20,15 @@ How To ...
     .. image:: figures/insertDatas.png
       :width: 800
       :alt: DataInsertion
-    
+
+    |
     | Press the :bdg-primary:`Book/Prenota` button to confirm the booking, there will be a confirmation message in the same Pop-up:
     
     .. image:: figures/confirmation.png
       :width: 800
       :alt: BookingConfirmation
-    
+
+    |
     | Check if you have the event on your calendar:
     
     .. image:: figures/slot.png
@@ -40,7 +43,8 @@ How To ...
     .. image:: figures/aboutconfig.png
         :width: 800
         :alt: about:config
-    
+
+    |
     | Type ``tls`` in the seach box, from here set :bdg-primary:`security.tls.version.min` option to :bdg-primary-line:`1` and set :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`.
 
     .. image:: figures/securitytls.png
