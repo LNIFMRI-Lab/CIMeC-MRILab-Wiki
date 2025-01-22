@@ -1,7 +1,7 @@
 FAQs Page
 ==========
 
-WIP...
+Work in Progress...
 
 Common Questions
 --------------
