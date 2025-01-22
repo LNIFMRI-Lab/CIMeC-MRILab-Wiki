@@ -1,10 +1,12 @@
 How To ...
 ============
 
-.. dropdown:: StimDev-PC Booking
-    :animate: fade-in
-    :color: primary
-    Open the "Book your appointment" link on `Best Practices <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#code-testing>`_ page of the Wiki.
+.. dropdown:: Dropdown title
+
+    Dropdown content
+
+
+Open the "Book your appointment" link on `Best Practices <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#code-testing>`_ page of the Wiki.
     
     It opens this page where you have to select the slot(s) that you want to book:
     
