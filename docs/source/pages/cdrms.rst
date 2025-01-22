@@ -20,13 +20,13 @@ In order to use CDRMS the following requirements are mandatory:
   - Working within the UniTN Network (a VPN connection is required of working remotely);
   - Being member of a CIMeC approved project that involves MRI Scanning;
   - Having UniTN credentials with a password not older than 3 months, this constraint follow on from UniTN Data Protection Policy;
-  - Using only `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, 'tls' in the seach box and set ``1`` the ``security.tls.version.min`` option and set ``true`` at ``security.tls.version.enable-deprecated`` option. (for a in depth guide, see the `How to ... page <link>`_).
+  - Using only `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, ''tls'' in the seach box and set :bdg-primary:`security.tls.version.min` option to :bdg-primary-line:`1` and :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`. (for a graphical guide, see the `How To ... page <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_).
   - Having Java Runtime version less than 8u291 installed on your computer (Download Java SE Runtime Environment 8u231 from `here <https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#:~:text=Java%20SE%20Runtime%20Environment%208u231>`_).
 
 How to retrieve data
 -------------
 
-Once logged into CDRMS you can easily browse and select your data for retrieving, selecting a sorting order for your DICOM files or accepting the default one. Hereafter a brief step-by-step guide for the download process (see `How to ... <link>`_ to consult a short graphical guide).
+Once logged into CDRMS you can easily browse and select your data for retrieving, selecting a sorting order for your DICOM files or accepting the default one. Hereafter a brief step-by-step guide for the download process (see `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ to consult a short graphical guide).
 
   -  Marking objects for retrieving:
       at first a list of all the exams acquired within the last month is presented; you can choose another month by using the selectors placed on the center of the bottom bar. You can browse objects, directly download physiological data and mark DICOM data for retrieving by clicking on the small download icon at the right of each displayed item (accession, exam or sequence). Once your selection is complete, you can customize the sorting options, by pressing Customize download on the right of the bottom bar, or accept the default sorting pressing Download.
