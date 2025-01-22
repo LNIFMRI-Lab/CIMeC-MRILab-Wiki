@@ -35,14 +35,14 @@ How To ...
 
 .. dropdown:: Configuration of Mozilla Firefox for CDRMS
     
-    Once you have Mozilla Firefox installed, you need to allow TLS protocol 1.0 by typing ``about:config`` in the address bar,
+    Once you have Mozilla Firefox installed, you need to allow TLS protocol 1.0 by typing ``about:config`` in the address bar and press Enter.
 
     .. image:: figures/aboutconfig.png
         :width: 800
         :alt: about:config
 
     
-    Type ``tls`` in the seach box and set ``security.tls.version.min`` option to ``1`` and set ``security.tls.version.enable-deprecated`` option to ``true``.
+    Type ``tls`` in the seach box, from here set :bdg-primary:`security.tls.version.min`` option to :bdg-primary-line:`1` and set :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`.
 
     .. image:: figures/securitytls.png
         :width: 800
