@@ -1,6 +1,5 @@
 Equipment
 ==========
-*to be implemented*
 
 MRI Scanner
 --------
