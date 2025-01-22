@@ -81,8 +81,8 @@ How To ...
     .. warning::
         If the ControlPanel command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command java -version to quickly check the installed Java version.
 
-        - Check the Java Version:
-            - In the Java Control Panel, go to the General tab.
-            - Click the About... button.
-            - A dialog box will appear displaying the installed Java version.
+    - Check the Java Version:
+        - In the Java Control Panel, go to the General tab.
+        - Click the About... button.
+        - A dialog box will appear displaying the installed Java version.
     
