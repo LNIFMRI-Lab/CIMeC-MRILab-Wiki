@@ -67,14 +67,15 @@ How To ...
              .. image:: figures/Javaversion1.png
                 :width: 800
                 :alt: JavaControlPanel
-            
+
+            |
             - A new window will appear showing the installed Java version.
             
              .. image:: figures/Javaversion3.png
                 :width: 800
                 :alt: JavaVersion
             
-    |
+            |
     - For Windows
         - Open the Java Control Panel:
             - Press Windows + S and type Control Panel, then open it.
@@ -89,10 +90,10 @@ How To ...
         - Open the Java Control Panel:
             - Open a terminal window.
             - Type the command ``ControlPanel`` (case-sensitive) and press Enter. This will launch the Java Control Panel if it is installed.
-    |
+
     .. warning::
         If the :bdg-secondary:`ControlPanel` command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command ``java -version`` to quickly check the installed Java version.
-    |
+    
     - Check the Java Version:
         - In the Java Control Panel, go to the General tab.
         - Click the About... button.
