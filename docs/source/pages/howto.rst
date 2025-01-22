@@ -79,14 +79,24 @@ How To ...
             
     - For Windows
         - Open the Java Control Panel:
-            - Press Windows + S and type Control Panel, then open it.
-            - In the Control Panel, search for Java using the search bar in the top-right corner.
-            - Click on Java (32-bit) or Java (64-bit) to open the Java Control Panel.
-        - Check the Java Version:
-            - In the Java Control Panel, go to the General tab.
-            - Click the About... button.
-            - A dialog box will appear showing the installed Java version.
-    
+            - Press Windows key to open the search box.
+
+             .. image:: figures/JavaVersion_win1.png
+                :width: 800
+                :alt: JavaVersion_Win1
+
+            - Type ``About Java``, then click it. If it does not come up, try ``Configure Java``. If you’re still having no luck, you probably don’t have Java installed.
+
+             .. image:: figures/JavaVersion_win2.png
+                :width: 800
+                :alt: JavaVersion_Win2
+
+            - Once you click through on About Java or Configure Java, you’ll see a pop-up window indicating the current version and build number.
+
+             .. image:: figures/JavaVersion_win3.png
+                :width: 800
+                :alt: JavaVersion_Win3
+
     - For Linux
         - Open the Java Control Panel:
             - Open a terminal window.
