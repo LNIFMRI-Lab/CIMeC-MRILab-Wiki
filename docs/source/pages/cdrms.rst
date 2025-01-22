@@ -3,6 +3,7 @@ MR Data Retrieving System (CDRMS)
 
 Introduction
 ------------
+
 The purpose of the data retrieving system (CDMRS) is to provide a repository of raw MR Data (and compounds) that users can download. Furthermore, the system allows searching and sharing between projects existing structural MRI data (e.g. for MEG and TMS experiments). You can reach the data retrieving system at `this link <https://dicom.cimec.unitn.it/CDRMS-WEB>`_.
 
 The application allows you browsing and downloading, down to the single sequence level, all MR data acquired within your CIMeC approved projects that involves MR Scans. Detailed information about volunteer, projects, exams and sequences are available, together with a preview of the single raw images. During a download session you can choose among a couple of DICOM sorting options. A text file (scan_list.txt) with a summary of exam/sequences information will be saved on your disk for each exam. A text file containing detailed sequence information will be saved within each sequence (text_header.txt). The system also manages physiological data acquired during scans, provided that, before starting the exam, you requested MRI Staff to register and upload them.
@@ -13,7 +14,9 @@ Any suggestion,feedback, request, criticism etc ... is welcome and will be discu
 
 Requirements
 -------------
+
 In order to use CDRMS the following requirements are mandatory:
+
   - Working within the UniTN Network (a VPN connection is required of working remotely);
   - Being member of a CIMeC approved project that involves MRI Scanning;
   - Having UniTN credentials with a password not older than 3 months, this constraint follow on from UniTN Data Protection Policy;
@@ -22,7 +25,9 @@ In order to use CDRMS the following requirements are mandatory:
 
 How to retrieve data
 -------------
+
 Once logged into CDRMS you can easily browse and select your data for retrieving, selecting a sorting order for your DICOM files or accepting the default one. Hereafter a brief step-by-step guide for the download process (see `How to ... <link>`_ to consult a short graphical guide).
+
   -  Marking objects for retrieving:
       at first a list of all the exams acquired within the last month is presented; you can choose another month by using the selectors placed on the center of the bottom bar. You can browse objects, directly download physiological data and mark DICOM data for retrieving by clicking on the small download icon at the right of each displayed item (accession, exam or sequence). Once your selection is complete, you can customize the sorting options, by pressing Customize download on the right of the bottom bar, or accept the default sorting pressing Download.
   - Previewing/customizing DICOM sorting:
@@ -34,6 +39,7 @@ Once logged into CDRMS you can easily browse and select your data for retrieving
 
 How to obtain MRI Structural Data from another project
 -------------
+
 If you are member of a project, approved by our ethical commitee, that needs a structural scan of a volunteer that already partecipated to an MRI experiment at LNIF, follow these steps (see also this step-by-step graphical guide):
 
   - Log into the retrieving system and open the Search MR sequences page.
@@ -45,6 +51,7 @@ If you are member of a project, approved by our ethical commitee, that needs a s
 
 How to share MRI Data to another project
 -------------
+
 If you are a PI of a project, approved by our ethical commitee, producing MRI structural data and you want your data to be shareable (i.e. allow people search/ask for your data) please contact the head of the LNIF-MRI lab or the IT Office (preferably Davide Tabarelli). If you already did that and now you just want to share structural sequences to another project, follow these steps (see also this step-by-step graphical guide):
 
   - At this point we assume that:
