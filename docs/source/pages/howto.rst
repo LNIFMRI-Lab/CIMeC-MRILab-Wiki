@@ -42,7 +42,7 @@ How To ...
         :alt: about:config
 
     
-    Type ``tls`` in the seach box, from here set :bdg-primary:`security.tls.version.min`` option to :bdg-primary-line:`1` and set :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`.
+    Type ``tls`` in the seach box, from here set :bdg-primary:`security.tls.version.min` option to :bdg-primary-line:`1` and set :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`.
 
     .. image:: figures/securitytls.png
         :width: 800
