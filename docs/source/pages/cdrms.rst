@@ -20,7 +20,7 @@ In order to use CDRMS the following requirements are mandatory:
   - Working within the UniTN Network (a VPN connection is required of working remotely);
   - Being member of a CIMeC approved project that involves MRI Scanning;
   - Having UniTN credentials with a password not older than 3 months, this constraint follow on from UniTN Data Protection Policy;
-  - Using only `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, ''tls'' in the seach box and set :bdg-primary:`security.tls.version.min` option to :bdg-primary-line:`1` and :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`. (consult the `How To ...<https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide).
+  - Using only `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>`_, allowing TLS protocol 1.0 typing ``about:config`` in the address bar, ``tls`` in the seach box and set :bdg-primary:`security.tls.version.min` option to :bdg-primary-line:`1` and :bdg-primary:`security.tls.version.enable-deprecated` option to :bdg-primary-line:`true`. (consult the `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide).
   - Having Java Runtime version less than 8u291 installed on your computer (Download Java SE Runtime Environment 8u231 from `here <https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#:~:text=Java%20SE%20Runtime%20Environment%208u231>`_).
 
 How to retrieve data
