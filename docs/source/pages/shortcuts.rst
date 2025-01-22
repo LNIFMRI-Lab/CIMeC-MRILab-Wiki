@@ -11,4 +11,6 @@ Here you'll find some useful links to most used pages by MRI Lab Users:
 
   - `Booking System <https://apps.cimec.unitn.it/cis/calendar.php>`_
 
+  - `CDRMS <>`_
+
   - `Discussion Board <https://github.com/orgs/LNIFMRI-Lab/discussions>`_ | `Discussion Board Registration Form <https://forms.gle/s7nn7CRL5LL1yviq7>`_
