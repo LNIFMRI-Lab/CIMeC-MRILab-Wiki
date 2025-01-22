@@ -50,3 +50,39 @@ How To ...
     .. image:: figures/securitytls.png
         :width: 800
         :alt: tlsConfig
+
+
+.. dropdown:: Configuration of Java for CDRMS
+
+    Once you have Java SE Runtime Environment instaled, you will need to check if you have installed the correct version of it.
+
+    - For macOS:
+        - Open the Java Control Panel:
+            - Go to System Settings from the Apple menu.
+            - Locate and click on the Java icon to open the Java Control Panel.
+        - Check the Java Version:
+            - In the Java Control Panel, go to the General tab.
+            - Click the About... button.
+            - A new window will appear showing the installed Java version.
+    - For Windows
+        - Open the Java Control Panel:
+            - Press Windows + S and type Control Panel, then open it.
+            - In the Control Panel, search for Java using the search bar in the top-right corner.
+            - Click on Java (32-bit) or Java (64-bit) to open the Java Control Panel.
+        - Check the Java Version:
+            - In the Java Control Panel, go to the General tab.
+            - Click the About... button.
+            - A dialog box will appear showing the installed Java version.
+    - For Linux
+        - Open the Java Control Panel:
+            - Open a terminal window.
+            - Type the command ControlPanel (case-sensitive) and press Enter. This will launch the Java Control Panel if it is installed.
+
+.. warning::
+    If the ControlPanel command does not work, ensure Java is properly installed and included in your system's PATH. Alternatively, use the terminal command java -version to quickly check the installed Java version.
+
+        - Check the Java Version:
+            - In the Java Control Panel, go to the General tab.
+            - Click the About... button.
+            - A dialog box will appear displaying the installed Java version.
+    
