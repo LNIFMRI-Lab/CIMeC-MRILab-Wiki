@@ -119,19 +119,19 @@ How To ...
         
         - A new window will appear where you have to click on the ``Add`` button
 
-             .. image:: figures/JavaSecurity2.png
+             .. image:: figures/Javasecurity2.png
                 :width: 800
                 :alt: JavaSecurity2
 
         - Type ``https://dicom.cimec.unitn.it`` in the row that will compare after you have clicked the ``Add`` button and press Enter (Red Arrow in the image below). Then click the ``OK`` button.
 
-             .. image:: figures/JavaSecurity3.png
+             .. image:: figures/Javasecurity3.png
                 :width: 800
                 :alt: JavaSecurity3
 
         - Verify that this procedure was successfull by checkling if the URL is present in the ``Exception Site List`` (Red Arrow in the image below). If you do not see the URL written there, repeat the previous passages until this passage is correct. Click the ``OK`` button to confirm the procedure.
 
-             .. image:: figures/JavaSecurity4.png
+             .. image:: figures/Javasecurity4.png
                 :width: 800
                 :alt: JavaSecurity4
         
