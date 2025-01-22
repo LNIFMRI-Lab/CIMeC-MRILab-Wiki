@@ -70,7 +70,7 @@ How To ...
             
             - A new window will appear showing the installed Java version.
             
-             .. image:: figures/Javaversion2.png
+             .. image:: figures/Javaversion3.png
                 :width: 800
                 :alt: JavaVersion
             
