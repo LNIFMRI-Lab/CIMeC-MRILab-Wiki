@@ -63,7 +63,7 @@ How To ...
         - Check the Java Version:
             - In the Java Control Panel, go to the General tab.
             - Click the About... button.
-            |
+            
 
              .. image:: figures/Javaversion1.png
                 :width: 800
@@ -71,7 +71,7 @@ How To ...
 
             
             - A new window will appear showing the installed Java version.
-            |
+            
 
              .. image:: figures/Javaversion3.png
                 :width: 800
