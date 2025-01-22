@@ -35,7 +35,7 @@ Once logged into CDRMS you can easily browse and select your data for retrieving
   - Download session:
       after you press download Java will start on your computer, connecting you directly with the PACS archive where images are stored. The first time you start a download session you have to confirm a security exception by choosing Always trust content from this publisher and pressing Yes. The CDRMS Download Manager, will start. Choose the directory in which you want to save your data and press Start download. The application will download all the selected data in the directory you specify.
   -  Solving Java security issue:
-      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add 'https://dicom.cimec.unitn.it' to the Exception site list (consult `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide).
+      sometimes Java updates changes automatically some security settings that prevents you to start the Download Manager application. To solve them open the Java Control Panel, navigate to the Security tab security, lower the Security level to the minimum available and add ``https://dicom.cimec.unitn.it`` to the Exception site list (consult `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide).
 
 How to obtain MRI Structural Data from another project
 -------------
@@ -52,7 +52,7 @@ If you are member of a project, approved by our ethical commitee, that needs a s
 How to share MRI Data to another project
 -------------
 
-If you are a PI of a project, approved by our ethical commitee, producing MRI structural data and you want your data to be shareable (i.e. allow people search/ask for your data) please contact the head of the LNIF-MRI lab or the IT Office (preferably Davide Tabarelli). If you already did that and now you just want to share structural sequences to another project, follow these steps (see also this step-by-step graphical guide):
+If you are a PI of a project, approved by our ethical commitee, producing MRI structural data and you want your data to be shareable (i.e. allow people search/ask for your data) please contact the head of the LNIF-MRI lab or the IT Office. If you already did that and now you just want to share structural sequences to another project, follow these steps (consult `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a graphical guide):
 
   - At this point we assume that:
       - the requesting PI provided/shown you a copy of the volunteer consent (you must take care controlling the volunteer gave consent).
