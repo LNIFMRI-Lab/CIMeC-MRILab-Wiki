@@ -26,7 +26,7 @@ In order to use CDRMS the following requirements are mandatory:
 How to retrieve data
 -------------
 
-Once logged into CDRMS you can easily browse and select your data for retrieving, selecting a sorting order for your DICOM files or accepting the default one. Hereafter a brief step-by-step guide for the download process (consult the `How To ... <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/howto.html>`_ page for a short graphical guide).
+Once logged into CDRMS you can easily browse and select your data for retrieving, selecting a sorting order for your DICOM files or accepting the default one.
 
   -  Marking objects for retrieving:
       at first a list of all the exams acquired within the last month is presented; you can choose another month by using the selectors placed on the center of the bottom bar. You can browse objects, directly download physiological data and mark DICOM data for retrieving by clicking on the small download icon at the right of each displayed item (accession, exam or sequence). Once your selection is complete, you can customize the sorting options, by pressing Customize download on the right of the bottom bar, or accept the default sorting pressing Download.
