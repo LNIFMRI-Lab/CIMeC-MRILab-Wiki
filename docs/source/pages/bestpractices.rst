@@ -108,6 +108,9 @@ Therefore, it is mandatory to provide the MRI Staff with the volunteers' informa
 
 The MRI Staff will ask the Volunteer Subject to sign the completed medical history form and a declaration regarding incidental findings upon their arrival at the MRI Lab to participate in the experiment.
 
+.. warning::
+  Participants must also bring a valid identification document, so their identity can be verified by the MRI Staff before signing the medical history.
+
 Important
 -------
 .. warning::
