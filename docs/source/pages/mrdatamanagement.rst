@@ -58,3 +58,12 @@ Researchers must adhere to the following directions:
      User can only download from the system that data acquired in projects in which the user is involved. The data will be available for downloading for at least 1 year after acquisition. If the system should signal that data is unavailable, the user should contact the IT office for assistance. If a project is closed, the data will still be available for 1 year after the date of closure.
 
  - If collected, behavioural data is saved to the Stim-PC, which, for technical reasons, is not connected to the network. At the end of the trial session, these files must be copied and deleted from the Stim-PC. They can be copied using a password-protected USB drive, taking care to delete the data once transferred to the CIMeC share. CIMeC refuses any and all liability for the storage of data saved to the laboratory computers. At the end of the trial, all data and scripts used for the project on the Stim-PC can be deleted without notifying the Facility staff.
+
+Help
+-------
+
+ * See `FAQs <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/FAQ.html>`_ page.
+
+ * If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the `Discussion Board <https://github.com/orgs/LNIFMRI-Lab/discussions>`_ (`Link to Discussion Board Registration Form <https://forms.gle/s7nn7CRL5LL1yviq7>`_) for further support.
+
+ * If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the MRI Lab for further support.
