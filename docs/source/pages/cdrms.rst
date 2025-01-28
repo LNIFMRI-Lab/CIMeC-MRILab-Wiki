@@ -61,3 +61,12 @@ If you are a PI of a project, approved by our ethical commitee, producing MRI st
   - Open the sharing frame by clicking on the sharing icon on the right of the sequence.
   - Select from the list the project code; now data has been shared.
   - If you want to remove a share, open the sharing frame as above and click on the trash icon on the left of the project list. Consider that this will only remove the share within the retrieving system; all data already downloaded by the requesting PI are not managed.
+
+Help
+-------
+
+ * See `FAQs <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/FAQ.html>`_ page.
+
+ * If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the `Discussion Board <https://github.com/orgs/LNIFMRI-Lab/discussions>`_ (`Link to Discussion Board Registration Form <https://forms.gle/s7nn7CRL5LL1yviq7>`_) for further support.
+
+ * If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the MRI Lab for further support.
