@@ -2,7 +2,7 @@ Access Rules
 ===========================
 Regulation
 ----------
-Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the planimetry below for more infos about the Zones).
+Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the planimetry below for more infos about Zones).
 
 .. image:: figures/MRI_Lab.png
   :align: center
@@ -34,7 +34,7 @@ For the three-year renewal of authorisation to access the MRI Lab, the researche
 Regardless of training, Bachelors/Master’s and other undergraduate students, as well as undergraduate trainees, can access the Lab only when accompanied by the researcher carrying out the experiment.
 
 .. warning::
-  For safety reasons, a maximum number of three (3) researchers, students included, are allowed to access Zone 3 (see `Planimetry <https://cimec-mrilab-wiki.readthedocs.io/en/latest/_images/MRI_Lab.png>`_ for more info abot Zones).
+  For safety reasons, a maximum number of three (3) researchers, students included, are allowed to access Zone 3 (see `Planimetry <https://cimec-mrilab-wiki.readthedocs.io/en/latest/_images/MRI_Lab.png>`_ for more info about Zones).
 
 Annual authorisation to access the MRI Room
 -------------
