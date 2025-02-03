@@ -31,7 +31,7 @@ Stimulation PCs
 MRI Lab provides the researchers with:
   * a Stimulation PC (Stim-PC from now on) located in the control room, connected to the Peripheral Equipment within the MRI Room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
-  * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area (Zone 2, see `Planimetry <https://cimec-mrilab-wiki.readthedocs.io/en/latest/_images/MRI_Lab.png>`_ for more info about Zones) and used to test paradigms and to train subjects outside the MR Scanner.
+  * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area (Zone 2) and used to test paradigms and to train subjects outside the MR Scanner.
 
 .. note::
   * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
