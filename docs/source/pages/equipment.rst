@@ -23,7 +23,7 @@ Peripheral Equipment
   * Physiological data monitoring and recording (ECG, pOx, Resp tracking);
 
 .. warning::
- It is possible to use additional peripheral devices provided by the Researchers; however, these must be approved by the Magnetic Resonance Safety Officer (MRSO) and the MRI Staff. The devices must meet the requirements for Electromagnetic Compatibility and Safety to ensure their suitability for use in Zone 4.
+ It is possible to use additional peripheral devices provided by the Researchers; however, these must be approved by the Magnetic Resonance Safety Officer (MRSO) and the MRI Staff. The devices must meet the requirements for Electromagnetic Compatibility and Safety to ensure their suitability for use in Zone 4 (see `Planimetry <https://cimec-mrilab-wiki.readthedocs.io/en/latest/_images/MRI_Lab.png>`_ for more info about Zones).
 
 Stimulation PCs
 ---------
@@ -31,7 +31,7 @@ Stimulation PCs
 MRI Lab provides the researchers with:
   * a Stimulation PC (Stim-PC from now on) located in the control room, connected to the Peripheral Equipment within the MRI Room and equipped with a stimulation software. The Stim-PC can receive triggers from the scanner and responses from the NNL ButtonBox systems;
 
-  * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area (Zone 2) and used to test paradigms and to train subjects outside the MR Scanner.
+  * a Stimulation Development PC (StimDev-PC from now on), clone of the Stim-PC, can be found in the MRI Area (Zone 2, see `Planimetry <https://cimec-mrilab-wiki.readthedocs.io/en/latest/_images/MRI_Lab.png>`_ for more info about Zones) and used to test paradigms and to train subjects outside the MR Scanner.
 
 .. note::
   * Stim-PC stays offline. Researchers should come with a USB Drive with their files;
