@@ -70,14 +70,11 @@ The insterested investigator must request a slot in coordination with the `MR La
 
 Subject Training
 -----------
-If a pre-scan training/testing session is required, the researcher and participant can use Room I-48 (see planimetry below), which is available at the Lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
+If a pre-scan training/testing session is required, the researcher and participant can use Room I-48 (see Planimetry below), which is available at the Lab's reception. The room can be freely accessed upon request during the laboratory's opening hours.
 
-!!! This is a placeholder !!!
-
-.. image:: figures/placeholder.png
+.. image:: figures/MRI_Lab_I-48.png
   :align: center
-  :width: 400
-  :alt: Room I-48
+  :alt: StimDev-PC Location
 
 Human Pilot
 ---------
