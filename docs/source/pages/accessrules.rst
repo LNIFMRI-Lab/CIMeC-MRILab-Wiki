@@ -8,6 +8,7 @@ Access to the MRI Lab is granted after attending a Safety Course provided by the
   :align: center
   :alt: MRI Lab Planimetry
 
+|
 
 In the MRI Lab, experiments (Human Scans) can be carried out as long as the required healthcare staff are available (MRI Technician and, if applicable, a Radiologist to perform an experiment) on working days, 8AM to 7PM (excluding public holidays or other days communicated by the MRI Staff).
 
