@@ -6,8 +6,8 @@ project = 'CIMeC MRI Lab Wiki'
 copyright = '2025, CIMeC MRI Lab Staff'
 author = 'Alberto Finora'
 
-release = '0.9'
-version = '0.9.9'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
