@@ -2,11 +2,12 @@ Access Rules
 ===========================
 Regulation
 ----------
-Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the
+Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the planimetry below for more infos about the Zones).
+
 .. image:: figures/MRI_Lab.png
+  :align: center
   :width: 400
-  :alt: Planimetry
-for more info about Zones).
+  :alt: MRI Lab Planimetry
 
 In the MRI Lab, experiments (Human Scans) can be carried out as long as the required healthcare staff are available (MRI Technician and, if applicable, a Radiologist to perform an experiment) on working days, 8AM to 7PM (excluding public holidays or other days communicated by the MRI Staff).
 
