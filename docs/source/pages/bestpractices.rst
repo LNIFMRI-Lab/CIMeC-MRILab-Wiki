@@ -21,7 +21,7 @@ MRI Project & experiments
 ----------
 In order to start a study in the MRI Facility, all criteria for accessing the CIMeC facility (`Access Rules <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/accessrules.html#access-rules>`_) must be met.
 
-In addition, before submitting the project proposal (PPM) to the `Research Ethics Committee <https://www.unitn.it/en/ricerca/1755/research-ethics-committee>`_, the researcher must present it to the Lab Manager (FM), ER and MR. The guidelines for the PPM presentation are available in writing <insert link>. The PPM assesses the project's feasibility from the perspective of safety and organisational impact on the Facility.
+In addition, before submitting the project proposal (PPM) to the `Research Ethics Committee <https://www.unitn.it/en/ricerca/1755/research-ethics-committee>`_, the researcher must present it to the Lab Manager (FM), ER and MR. The guidelines for the PPM presentation are available in writing (Link available soon). The PPM assesses the project's feasibility from the perspective of safety and organisational impact on the Facility.
 
 The researchers with granted access to the MRI Lab must therefore be part of a project approved by the Research Ethics Committee and which is active at the time of booking.
 
