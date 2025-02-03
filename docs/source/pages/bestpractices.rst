@@ -31,7 +31,7 @@ Following successful completion of the Phantom Session, a trial session must be 
 
 Code Testing
 ----------------
-The StimDev-PC is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Room I-48 (see `Subject Training <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#id3>`_ section in this page). 
+The StimDev-PC is available for the preliminary stages of paradigm development, debugging, and testing. This PC is located in Zone 2 (see `Subject Training <https://cimec-mrilab-wiki.readthedocs.io/en/latest/pages/bestpractices.html#id3>`_ section in this page). 
 
 Access to this platform can be granted in the following ways:
 
