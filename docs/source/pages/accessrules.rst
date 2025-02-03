@@ -2,7 +2,7 @@ Access Rules
 ===========================
 Regulation
 ----------
-Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the .. |Planimetry| image:: docs/source/pages/figures/MRI_Lab.png
+Access to the MRI Lab is granted after attending a Safety Course provided by the MRI Lab and under the supervision of a member of the MRI Lab Staff only. You will not have access to the MRI Room (Zone 4, see the .. image:: docs/source/pages/figures/MRI_Lab.png
   :width: 400
   :alt: Planimetry
 for more info about Zones).
