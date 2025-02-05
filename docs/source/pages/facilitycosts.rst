@@ -10,4 +10,4 @@ The data, analysis and services provided by the MRI Lab are used by the applican
 
 In order to be able to apply verifiable and admissable rated as costs for the various types of funding, the University of Trento has undertaken a cost analysis.
 
-The cost of MRI scanner will be communicated to the PIs at the end of each yesr in order to allow them to estimate the yearly amount necessary fot its use and that must be uploaded in CLARA.
+The cost of MRI scanner will be communicated to the PIs at the end of each year in order to allow them to estimate the yearly amount necessary fot its use and that must be uploaded in CLARA.
