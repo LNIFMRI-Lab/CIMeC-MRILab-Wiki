@@ -3,7 +3,7 @@ Best Practices
 
 General Guidelines
 ---------------
-  - Bring a USB drive for copying the data.
+  - Bring a USB drive for copying the output of your experiment scripts.
 
   - Export all data from the Stim-PC at the end of the experiment.
 
