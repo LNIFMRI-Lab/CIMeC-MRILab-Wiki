@@ -144,5 +144,5 @@ Help
 .. raw:: html
 
     <embed>
-        <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/e84894c9-bd9a-4588-bcb0-c91d622e1574/page/9mPJF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+       <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/e84894c9-bd9a-4588-bcb0-c91d622e1574/page/9mPJF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
     </embed>
