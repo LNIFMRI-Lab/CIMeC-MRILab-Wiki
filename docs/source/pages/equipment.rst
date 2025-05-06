@@ -138,3 +138,11 @@ Help
  * If the topic you need assistance with is not covered in the FAQ section of the Wiki, you can refer to the `Discussion Board <https://github.com/orgs/LNIFMRI-Lab/discussions>`_ (`Link to Discussion Board Registration Form <https://forms.gle/s7nn7CRL5LL1yviq7>`_) for further support.
 
  * If the topic you need assistance with is not covered in the FAQ section of the Wiki or the discussion board, you can send an `email <https://arc.net/l/quote/ngemhopk>`_ to the MRI Lab for further support.
+
+
+
+.. raw:: html
+
+    <embed>
+        <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/e84894c9-bd9a-4588-bcb0-c91d622e1574/page/9mPJF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+    </embed>
